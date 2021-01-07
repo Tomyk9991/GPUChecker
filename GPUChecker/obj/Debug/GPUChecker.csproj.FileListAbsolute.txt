@@ -1,0 +1,7 @@
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\bin\Debug\GPUChecker.exe
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\bin\Debug\GPUChecker.pdb
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\obj\Debug\GPUChecker.csprojAssemblyReference.cache
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\obj\Debug\GPUChecker.csproj.CoreCompileInputs.cache
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\obj\Debug\GPUChecker.exe
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\obj\Debug\GPUChecker.pdb
+C:\Users\thoma\RiderProjects\GPUChecker\GPUChecker\bin\Debug\NewFile1.txt

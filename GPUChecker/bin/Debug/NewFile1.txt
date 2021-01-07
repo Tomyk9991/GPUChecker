@@ -1,0 +1,4933 @@
+
+<!DOCTYPE HTML>
+<html lang="de-DE">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <link rel="canonical" href="https://www.alternate.de/Grafikkarten/RTX-3080" />
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.alternate.de/Grafikkarten/RTX-3080" >
+  <script type="text/javascript">
+    (function(d) {var c = d.createElement("link");c.href = '/css/fonts/fonts.css?version=2867_73';c.rel = "stylesheet";c.media="all";d.head.appendChild(c);})(document);
+  </script>
+  <title>GeForce RTX 3080 online kaufen &raquo; ALTERNATE</title>
+  <meta name="author" content="Alternate GmbH" />
+  <meta name="keywords" content="RTX 3080" />
+  <meta name="description" content="GeForce RTX 3080 kaufen &#x25ba; Modelle von GIGABYTE &amp; Co. &raquo; 10 GB GDDR6X VRAM &raquo; Ray Tracing &raquo; Schneller Versand &#x25ba; Jetzt RTX 3080 bestellen" />
+  <meta name="robots" content="all, noodp, noydir" />
+  <meta name="viewport" content="initial-scale=0.7" />
+  <link rel="search" href="/html/searchEngine/searchEngine.xml" type="application/opensearchdescription+xml" title="Search" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/html/news.rss"/>
+  
+  <link rel="apple-touch-icon" sizes="16x16" href="/pix/themeworld/icons/favicon.ico">
+  <link rel="icon" sizes="16x16" href="/pix/themeworld/icons/favicon.ico"/>
+  <link rel="apple-touch-icon" sizes="144x144" href="/pix/themeworld/icons/alternate.png">
+  <link rel="icon" sizes="144x144" href="/pix/themeworld/icons/alternate.png"/>
+  <link rel="alternate" href="https://www.alternate.de/Grafikkarten/RTX-3080" hreflang="x-default" />
+  <link rel="alternate" href="https://www.alternate.nl/Grafikkarten/RTX-3080" hreflang="nl-NL" /><link rel="alternate" href="https://www.alternate.de/Grafikkarten/RTX-3080" hreflang="de-DE" />
+  <link rel="stylesheet" type="text/css" href="/css/alternate-min.css?version=2867_73" /><link rel="stylesheet" type="text/css" href="/static/cookieAcceptance/cookieAcceptance.min.css?version=2867_73" />
+  
+  <!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/css/ie7.css">
+  <![endif]-->
+  <script type="text/javascript">
+    var tleScriptPool = [], generalNamespace = {}, checkoutNamespace = {}, detailPageNamespace = {}, trackingNamespace = {};
+    generalNamespace.useCookieAcceptance = true;
+    generalNamespace.fixedHeaderScrollTop = 200;
+    generalNamespace.hasAdserver = true;;
+    window.onLoadExecute = function(f,p) {
+      if (f instanceof Function) window.tleScriptPool.push({'s':f,'p':p});
+    };
+    window._globalScriptsPool={add:onLoadExecute};
+    document.createElement('video');document.createElement('audio');document.createElement('track');
+  </script>
+  
+  <script type="text/plain" src="https://rs.epoq.de/web-api/epoqgo.js" defer data-cookieconsent="MARKETING"></script>
+  <script type="text/javascript" src="/js/alternate-min.js?version=2867_83" defer></script>
+  
+  <script type="text/javascript" src="/static/cookieAcceptance/cookieAcceptance.min.js?version=2867_83" defer data-privacy-link="/HILFE/ALTERNATE/Datenschutz"></script>
+  
+  
+  
+  <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.alternate.de",
+ "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.alternate.de/html/search.html?query={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+  
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.alternate.de/Grafikkarten/RTX-3080" />
+<meta property="og:title" content="GeForce RTX 3080 online kaufen &raquo; ALTERNATE" />
+<meta property="og:description" content="GeForce RTX 3080 kaufen &#x25ba; Modelle von GIGABYTE &amp; Co. &raquo; 10 GB GDDR6X VRAM &raquo; Ray Tracing &raquo; Schneller Versand &#x25ba; Jetzt RTX 3080 bestellen"/>
+<meta property="og:site_name" content="alternate.de" />
+<meta property="og:locale" content="de_DE"/>
+<meta property="og:locale:alternate" content="de_DE"/>
+<meta property="og:image" content="https://www.alternate.de/pix/header/logo/slogan/alternate_de.png"/>
+
+
+  
+  <style>
+#pageHuge.pcb3 #stage .spa-content-stage {width:836px }
+
+#recommendAddToCartBanner { margin-top:10px; }
+
+#buyProduct .productShort .productAction a.google { display:none; }
+
+
+a.teaser { position:relative; }
+a.teaser .actionPeriod,
+a.skyTeaser .actionPeriod { position:absolute; left:20px; bottom:3px; font-size:10px; }
+a.teaser .actionPeriod.light,
+a.skyTeaser .actionPeriod.light { color:#fff; }
+</style>
+
+
+<script defer type="text/plain" src="//userlike-cdn-widgets.s3-eu-west-1.amazonaws.com/4dd6cafbd0835383c6edb2be687d3961ddcaabbdbba1fe5f53261feab71f0025.js" data-cookieconsent="MARKETING"></script>
+
+<style>
+
+
+.searchFlexContainer { justify-content:space-around }
+
+.searchFlexContainer>a, 
+.searchFlexContainer img { display:inherit; }
+.searchBannerFlex { justify-content:center; }
+.searchBannerFlex a { flex:0 1; }
+
+.hideTree #navTree .tree,
+.hideBreadcrumb .breadCrumbs {display: none !important;}
+
+
+
+* { zoom:normal; }
+
+/* Inhalt aus: 17873 */
+#cookieHint { display:none; position:fixed; top:-26px; left:0; text-align:center; padding:6px; width: 100%; z-index: 999; background-color:#ddd; }
+#acceptCookieHint { font-weight:bold; padding: 3px 16px; }
+
+/* Inhalt aus: 10 */
+.sideArea div.social li.links a { margin: 6px;}
+
+/* Inhalt aus: 1 */
+#footer .item {
+-webkit-flex: 0 1 25%;
+    -ms-flex: 0 1 25%;
+    flex: 0 1 25%;
+    -webkit-align-self: auto;
+    -ms-flex-item-align: auto;
+}
+
+#footer #footerLangList div {padding: 0px}
+
+#footerToMobileShop {
+ text-align: center;
+ background-color: #e8e8e8;
+ margin: 1px 1px 0 1px;
+}
+#footerToMobileShop a {
+  display: inline-block;
+  font-size: 11px;
+  line-height: 30px;
+  color: #000;
+}
+
+/*Header Include aus: 4670 bzw. Teaser Group: 5831 */
+
+a.hiddenLinkText {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.productdetail #pageContent .productShort .price, .stageHighlightPrice   { font-weight:900; }
+.topseller .price sup { font-size:x-small !important; line-height:inherit !important; vertical-align:super !important; }
+
+#pageBig.search .sideArea .box ul.closed { height:85px; }
+#pageBig.search .sideArea a.rating { height:15px; line-height:15px; }
+.highlightMatrix .h1x1 .name { font-size:14px; }
+.loginForCheckout #ppe, .loginForCheckout #toMasterpassCheckout { display:none; }
+
+.listingGallery .product { height:395px; }
+.listingGallery .description { height:30px; }
+
+.productdetail .topRatedCarousel .articleCarousel { height:170px }
+.productdetail .topRatedCarousel .articleCarousel li .info,
+.productdetail .topRatedCarousel .articleCarousel li .button { display:none }
+
+
+#header #headerLogo { background:none !important; }
+#header .headerFixed { background:
+url("/pix/xmas/Schnee_1.png") no-repeat 339px 4px,
+url("/pix/xmas/Header_2018.jpg") no-repeat 0 0
+ }
+#header{background:url("/pix/xmas/Header_2018.jpg") no-repeat 0 0}
+
+#pageBig.listing #content {
+
+}
+#pageBig.listing.topseller #pageContent  {
+    padding-top:25px;
+   }
+.productdetail #contentWrapper .productShort ul:nth-of-type(1) {
+  min-height:60px;
+}
+.productdetail #contentWrapper .productShort ul {
+  width:235px;
+}
+
+#footer .tab { background:url("/pix/xmas/Footer.png") no-repeat scroll left bottom #e8e8e8;}
+
+
+
+
+</style>
+
+
+
+<script type="text/javascript">
+  onLoadExecute(function() {
+    if ($('#productCampaignContainer > .productCampaign').length <= 0) {
+      var images = ['Anhaenger_1.png', 'Anhaenger_2.png', 'Anhaenger_3.png', 'Anhaenger_4.png', 'Anhaenger_5.png', 'Anhaenger_6.png', 'Anhaenger_7.png', 'Anhaenger_8.png', 'Anhaenger_9.png', 'Anhaenger_10.png', 'Anhaenger_11.png', 'Anhaenger_12.png', 'Anhaenger_13.png'];
+      $('.productdetail #contentWrapper').css({
+        backgroundImage:'url(/pix/xmas/' + images[Math.floor(Math.random() * images.length)] + ')',
+        backgroundRepeat:'no-repeat',
+        backgroundPosition:'650px -10px'
+      });
+    }
+  });
+</script>
+
+
+
+
+<style type="text/css">
+  div.lightBoxDetailbanner { cursor:help; }
+  div.lightBoxDetailbanner div {display: none;}
+  div#lightboxDyn div#lightboxDynHeader #lightboxDynHeaderText .dynDetailseitenbanner p {font-size: 21px; line-height: 24px; font-weight: bold;}
+  div#lightboxDyn div#lightboxDynContent .dynDetailseitenbanner p.lightBoxHeadline {font-size: 16px; line-height: 19px; font-weight: bold;}
+  div#lightboxDyn div#lightboxDynContent .dynDetailseitenbanner p a {display: block; color: #767676; font-weight: bold;}
+  div#lightboxDyn div#lightboxDynContent .dynDetailseitenbanner p a span.awesome {font-family:"fontawesome-webfont"}
+</style>
+
+<script type="text/plain" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" data-cookieconsent="MARKETING"></script>
+<script type="text/plain" data-cookieconsent="MARKETING">
+adsbygoogle = window.adsbygoogle;
+  if (!adsbygoogle) {
+    adsbygoogle = [];
+  }
+  adsbygoogle.push({google_ad_client: "ca-pub-1729673389184046", enable_page_level_ads: true});
+</script>
+
+<style type="text/css">
+.productdetail .eyeCatcher.promotion18 .promotionValue { height:21px; }
+</style>
+
+
+<script type="text/javascript">
+  onLoadExecute(function() {
+	let searchParams = new URLSearchParams(window.location.search);
+	if (searchParams.has('lk')) {
+		$('.listing .spa-content.spa-content-listing-sponsored').hide();
+
+	}
+
+  });
+</script>
+</head> 
+  <body class="country_de language_de b2c mainTree7">
+  <data id="spa-key"><!--{"webshop":true,"matchings":[{"value":"listing","key":"page"},{"value":"29308","key":"tk"},{"value":"1599465397714","key":"navIds"}],"productChannelId":1,"positions":[],"ignoreGlobals":false,"channelId":1,"revision":false}--></data>
+  
+    <div id="pageBig" class="listing skyContainer">
+      <noscript>
+        <div id="noJSBox">
+          <div id="noJSBoxHead">JavaScript ist nicht aktiviert!</div>
+          Um die Seite nutzen zu können, müssen Sie JavaScript in Ihrem Browser aktivieren.
+        </div>
+      </noscript>
+
+<div id="header">
+  <div class="headerFixed">
+    <a id="headerLogo" class="slogan hiddenLinkText" title="Alternate" href="/html/index.html">Alternate</a>
+    
+
+<form id="search" action="/html/search.html?" name="search_word_inc">
+  <input id="searchCriteria" name="query" type="text" value="" autocomplete="off" maxlength="80" placeholder="Suchbegriff eingeben..." />
+  <input class="miniSearchSubmit" type="image" src="/pix/search/sendSearchButtonBig.png" alt="Jetzt Suche starten" />
+  <input type="text" id="queryUnderlay" autocomplete="off"/>
+  <var class="channel">de_de</var>
+</form>
+<div id="suggestLayer" class="suggestLayer"></div>
+
+    
+        
+    
+    <div id="headerLinks">
+      <strong id="welcome" style="display:none;">Hallo <span class="greeting">greeting</span></strong>
+      <div class="buttons">
+        <a id="myAccount" class="button account-34 inactive" href="/html/myAccount/myAccount.html?" title="Mein Konto">
+   <span>Mein Konto</span>
+</a>
+
+        <div id="cartBoxHover">
+  <a id="toCartButton" class="button account-34 inactive" href="/html/cart.html?" title="Mein Warenkorb">
+    <span><span class="icon"><!-- icon --></span><span id="cartProductCount">0</span></span>
+  </a>
+</div>
+        <div class="clear">e</div>
+      </div>
+    </div>
+    
+    <div class="clear">e</div>
+  </div>
+</div>
+<div id="tabberFixedContainer">
+  <div id="tabbers">
+    <!-- WEB-2844 -->
+
+<nav class="nav_tab_main hover">
+  <a class="tree7" href="/Hardware" title="">
+    Hardware
+    <var>/html/navigation/tabber/tabberTree.html?treeId=7</var>
+  </a>
+  <a class="tree14198" href="/PC" title="">
+    PC
+    <var>/html/navigation/tabber/tabberTree.html?treeId=14198</var>
+  </a>
+  <a class="tree15" href="/Smartphone" title="">
+    Smartphone
+    <var>/html/navigation/tabber/tabberTree.html?treeId=15</var>
+  </a>
+  <a class="tree12" href="/Apple" title="">
+    Apple
+    <var>/html/navigation/tabber/tabberTree.html?treeId=12</var>
+  </a>
+  <a class="tree10" href="/Fernseher" title="">
+    Fernseher
+    <var>/html/navigation/tabber/tabberTree.html?treeId=10</var>
+  </a>
+  <a class="tree9" href="/Software" title="">
+    Software
+    <var>/html/navigation/tabber/tabberTree.html?treeId=9</var>
+  </a>
+  <a class="tree12174" href="/Smart-Home" title="">
+    Smart Home
+    <var>/html/navigation/tabber/tabberTree.html?treeId=12174</var>
+  </a>
+  <a class="tree20328" href="/Outdoor" title="">
+    Outdoor
+    <var>/html/navigation/tabber/tabberTree.html?treeId=20328</var>
+  </a>
+  <a class="tree15464" href="/Werkzeug" title="">
+    Werkzeug
+    <var>/html/navigation/tabber/tabberTree.html?treeId=15464</var>
+  </a>
+  <a class="tree5304" href="/Haushalt" title="">
+    Haushalt
+    <var>/html/navigation/tabber/tabberTree.html?treeId=5304</var>
+  </a>
+
+  <a class="tree13" href="/Gaming" title="">
+    Gaming
+    <var>/html/navigation/tabber/tabberTree.html?treeId=13</var>
+  </a>
+  <a class="tree8" href="/Notebook" title="">
+    Notebook
+    <var>/html/navigation/tabber/tabberTree.html?treeId=8</var>
+  </a>
+  <a class="tree14" href="/Kamera" title="">
+    Kamera
+    <var>/html/navigation/tabber/tabberTree.html?treeId=14</var>
+  </a>
+  <a class="tree14528" href="/Tablet" title="">
+    Tablet
+    <var>/html/navigation/tabber/tabberTree.html?treeId=14528</var>
+  </a>
+  <a class="tree8062" href="/Audio" title="">
+    Audio
+    <var>/html/navigation/tabber/tabberTree.html?treeId=8062</var>
+  </a>
+  <a class="tree13574" href="/Spielzeug" title="">
+    Spielzeug
+    <var>/html/navigation/tabber/tabberTree.html?treeId=13574</var>
+  </a>
+  <a class="tree17566" href="/Grill" title="">
+    Grill
+    <var>/html/navigation/tabber/tabberTree.html?treeId=17566</var>
+  </a>
+  <a class="tree20870" href="/E-Bike" title="">
+    E-Bike
+    <var>/html/navigation/tabber/tabberTree.html?treeId=20870</var>
+  </a>
+  <a class="tree5306" href="/Garten" title="">
+    Garten
+    <var>/html/navigation/tabber/tabberTree.html?treeId=5306</var>
+  </a>
+  <a class="tree9157" href="/Outlet" title="">
+     Outlet  <span>%</span>
+    <var>/html/navigation/tabber/tabberTree.html?treeId=9157</var>
+  </a>
+</nav>
+    <nav class="nav_tab_sub">
+  
+    <!-- ZZ -->
+    <!-- WEB-2844 -->
+
+
+<a class="zackzack" title="Entdecken Sie jetzt Tag f&uuml;r Tag tolle Angebote zu echten Spitzenpreisen" href="/TagesDeals"><span style="color: #e1011b;">TAGES</span>DEALS</a>
+ 
+  
+  <a class="topseller" href="/html/category/listing/topseller.html?treeId=7&amp;tk=7" title="Topseller">Topseller</a>
+  <a href="/html/promotion/page.html" title="Promotion Aktionen">Aktionen</a>
+  
+    <!-- Bürobedarf & Schreibwaren  -->
+    <a href="/Bürobedarf-Schreibwaren" title="Bürobedarf & Schreibwaren">Bürobedarf & Schreibwaren</a>
+   
+
+  <a href="/BUILDER" title="PC-Konfigurator">PC-Konfigurator</a>
+ 
+  
+
+  <a href="/Markenportal" style="text-align:center;" title="Markenportale">Markenportale</a>
+ 
+  
+    <!-- Social -->
+    <div class="social">
+  <a href="https://www.facebook.com/pages/Alternate/262337696661" title="Facebook" target="_blank"><img src="/pix/structure/tabber/social/Facebook.png" alt="Facebook"/></a>
+  <a href="https://www.youtube.com/user/AlternateTVChannel" title="YouTube" target="_blank"><img src="/pix/structure/tabber/social/Youtube.png" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/alternate.de/" title="Instagram" target="_blank"><img src="/pix/structure/tabber/social/Instagram.png" alt="Instagram"/></a>
+
+  <a href="https://twitter.com/alternate_de" title="Twitter" target="_blank"><img src="/pix/structure/tabber/social/Twitter.png" alt="Twitter"/></a>
+  <a href="https://techrush.de/" title="techrush" target="_blank"><img src="/pix/structure/tabber/social/Techrush.png" alt="techrush"/></a>
+</div>
+  
+</nav>
+
+    
+    <div class="spa-content spa-content-headerbanner">
+      <div class="spa spa-position-headerbanner spa-limit-1"></div>
+    </div>
+    
+  </div>
+</div>
+      <div id="content">
+<nav id="navTree" class="sideArea">
+  <ul class="tree">
+  
+    <li class="parent"><a title="Hardware" href="/Hardware" target="_self">Hardware</a>
+    </li>
+  
+  
+    
+    <li class="key_8245"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel isSubTree  hasSubs treeOpened">
+      <a title="PC Komponenten" href="/Hardware/PC-Komponenten" target="_self">PC Komponenten</a>
+      
+   </li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Arbeitsspeicher" href="/Arbeitsspeicher" target="_self"><span class="arrow"><!-- e --></span>Arbeitsspeicher</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Capture Karten" href="/Capture-Karten" target="_self"><span class="arrow"><!-- e --></span>Capture Karten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="CPU-K&uuml;hler" href="/CPU-Kühler" target="_self"><span class="arrow"><!-- e --></span>CPU-K&uuml;hler</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="CPUs" href="/PC-Komponenten/CPUs" target="_self"><span class="arrow"><!-- e --></span>CPUs</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Festplatten" href="/PC-Komponenten/Festplatten" target="_self"><span class="arrow"><!-- e --></span>Festplatten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs treeOpened">
+      <a title="Grafikkarten" href="/Grafikkarten" target="_self"><span class="arrow"><!-- e --></span>Grafikkarten</a>
+      
+      </li>
+      
+        <li> <ul>
+        <li class="subLevel3  hasSubs treeOpened">
+        <a title="NVIDIA Grafikkarten" href="/Grafikkarten/NVIDIA-Grafikkarten" target="_self"><span class="arrow"><!-- e --></span>NVIDIA Grafikkarten</a>
+        
+        </li>
+        
+          <li class="subLevel4 ">
+          <a title="GeForce RTX Gaming" href="/Grafikkarten/GeForce-RTX-Gaming" target="_self"><span class="arrow"><!-- e --></span>GeForce RTX Gaming</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GeForce GTX Gaming" href="/Grafikkarten/GeForce-GTX-Gaming" target="_self"><span class="arrow"><!-- e --></span>GeForce GTX Gaming</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="RTX 3090" href="/Grafikkarten/RTX-3090" target="_self"><span class="arrow"><!-- e --></span>RTX 3090</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4  active">
+          <a title="RTX 3080" href="/Grafikkarten/RTX-3080" target="_self"><span class="arrow"><!-- e --></span>RTX 3080</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="RTX 3070" href="/Grafikkarten/RTX-3070" target="_self"><span class="arrow"><!-- e --></span>RTX 3070</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="RTX 3060 TI" href="/Grafikkarten/RTX-3060-TI" target="_self"><span class="arrow"><!-- e --></span>RTX 3060 TI</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="RTX 2060 SUPER" href="/Grafikkarten/RTX-2060-SUPER" target="_self"><span class="arrow"><!-- e --></span>RTX 2060 SUPER</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="RTX 2060" href="/Grafikkarten/RTX-2060" target="_self"><span class="arrow"><!-- e --></span>RTX 2060</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1660 SUPER" href="/Grafikkarten/GTX-1660-SUPER" target="_self"><span class="arrow"><!-- e --></span>GTX 1660 SUPER</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1660 TI" href="/Grafikkarten/GTX-1660-TI" target="_self"><span class="arrow"><!-- e --></span>GTX 1660 TI</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1660" href="/Grafikkarten/GTX-1660" target="_self"><span class="arrow"><!-- e --></span>GTX 1660</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1650 SUPER" href="/Grafikkarten/GTX-1650-SUPER" target="_self"><span class="arrow"><!-- e --></span>GTX 1650 SUPER</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1650" href="/Grafikkarten/GTX-1650" target="_self"><span class="arrow"><!-- e --></span>GTX 1650</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="GTX 1050 TI" href="/Grafikkarten/GTX-1050-TI" target="_self"><span class="arrow"><!-- e --></span>GTX 1050 TI</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="Geforce GT " href="/Grafikkarten/Geforce-GT" target="_self"><span class="arrow"><!-- e --></span>Geforce GT </a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="NVIDIA Quadro" href="/Grafikkarten/NVIDIA-Quadro" target="_self"><span class="arrow"><!-- e --></span>NVIDIA Quadro</a>
+          
+          </li>
+          
+        
+          <li class="subLevel4 ">
+          <a title="SLI-Bridge" href="/Grafikkarten/SLI-Bridge" target="_self"><span class="arrow"><!-- e --></span>SLI-Bridge</a>
+          
+          </li>
+          
+        
+        </ul></li>
+      
+        <li> <ul>
+        <li class="subLevel3  hasSubs">
+        <a title="AMD Grafikkarten" href="/Grafikkarten/AMD-Grafikkarten" target="_self"><span class="arrow"><!-- e --></span>AMD Grafikkarten</a>
+        
+        </li>
+        
+        </ul></li>
+      
+        <li> <ul>
+        <li class="subLevel3 ">
+        <a title="Grafikkartenk&uuml;hler" href="/Grafikkarten/Grafikkartenkühler" target="_self"><span class="arrow"><!-- e --></span>Grafikkartenk&uuml;hler</a>
+        
+        </li>
+        
+        </ul></li>
+      
+        <li> <ul>
+        <li class="subLevel3 ">
+        <a title="Grafikkarten Geh&auml;use" href="/Grafikkarten/Grafikkarten-Gehäuse" target="_self"><span class="arrow"><!-- e --></span>Grafikkarten Geh&auml;use</a>
+        
+        </li>
+        
+        </ul></li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Laufwerke" href="/PC-Komponenten/Laufwerke" target="_self"><span class="arrow"><!-- e --></span>Laufwerke</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Mainboards" href="/PC-Komponenten/Mainboards" target="_self"><span class="arrow"><!-- e --></span>Mainboards</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Netzteile" href="/Netzteile" target="_self"><span class="arrow"><!-- e --></span>Netzteile</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Netzwerkkarten" href="/Netzwerkkarten" target="_self"><span class="arrow"><!-- e --></span>Netzwerkkarten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="PC Geh&auml;use" href="/PC-Gehäuse" target="_self"><span class="arrow"><!-- e --></span>PC Geh&auml;use</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="PC Geh&auml;usel&uuml;fter" href="/PC-Gehäuselüfter" target="_self"><span class="arrow"><!-- e --></span>PC Geh&auml;usel&uuml;fter</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Soundkarten" href="/Soundkarten" target="_self"><span class="arrow"><!-- e --></span>Soundkarten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="SSD" href="/SSD" target="_self"><span class="arrow"><!-- e --></span>SSD</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Wasserk&uuml;hlungen" href="/Wasserkühlungen" target="_self"><span class="arrow"><!-- e --></span>Wasserk&uuml;hlungen</a>
+      
+      </li>
+      
+       </ul></li>
+    
+     </ul></li>
+  
+    
+    <li class="key_21109"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel  hasSubs">
+      <a title="Server Komponenten" href="/Hardware/Server-Komponenten" target="_self"><span class="arrow"><!-- e --></span>Server Komponenten</a>
+      
+   </li>
+    
+     </ul></li>
+  
+    
+    <li class="key_8591"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel isSubTree  hasSubs treeOpened">
+      <a title="Peripherie" href="/Peripherie" target="_self">Peripherie</a>
+      
+   </li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="3D-Drucker" href="/Peripherie/3D-Drucker" target="_self"><span class="arrow"><!-- e --></span>3D-Drucker</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Digital Signage" href="/Peripherie/Digital-Signage" target="_self"><span class="arrow"><!-- e --></span>Digital Signage</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Drucker" href="/Peripherie/Drucker" target="_self"><span class="arrow"><!-- e --></span>Drucker</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Externe Festplatten" href="/Peripherie/Externe-Festplatten" target="_self"><span class="arrow"><!-- e --></span>Externe Festplatten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Externe SSDs" href="/Peripherie/Externe-SSDs" target="_self"><span class="arrow"><!-- e --></span>Externe SSDs</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Monitore" href="/Peripherie/Monitore" target="_self"><span class="arrow"><!-- e --></span>Monitore</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="NAS" href="/Peripherie/NAS" target="_self"><span class="arrow"><!-- e --></span>NAS</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Scanner" href="/Peripherie/Scanner" target="_self"><span class="arrow"><!-- e --></span>Scanner</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Speicherkarten" href="/Peripherie/Speicherkarten" target="_self"><span class="arrow"><!-- e --></span>Speicherkarten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Stromversorgung" href="/Peripherie/Stromversorgung" target="_self"><span class="arrow"><!-- e --></span>Stromversorgung</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="USB-Sticks" href="/Peripherie/USB-Sticks" target="_self"><span class="arrow"><!-- e --></span>USB-Sticks</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="USV" href="/Peripherie/USV" target="_self"><span class="arrow"><!-- e --></span>USV</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Webcams" href="/Peripherie/Webcams" target="_self"><span class="arrow"><!-- e --></span>Webcams</a>
+      
+      </li>
+      
+       </ul></li>
+    
+     </ul></li>
+  
+    
+    <li class="key_8660"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel isSubTree  hasSubs treeOpened">
+      <a title="Eingabeger&auml;te" href="/Hardware/Eingabegeräte" target="_self">Eingabeger&auml;te</a>
+      
+   </li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Gamepads" href="/Gamepads" target="_self"><span class="arrow"><!-- e --></span>Gamepads</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Grafiktablett" href="/Grafiktablett" target="_self"><span class="arrow"><!-- e --></span>Grafiktablett</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Joysticks" href="/Joysticks" target="_self"><span class="arrow"><!-- e --></span>Joysticks</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Lenkr&auml;der" href="/Lenkräder" target="_self"><span class="arrow"><!-- e --></span>Lenkr&auml;der</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Mauspads" href="/Mauspads" target="_self"><span class="arrow"><!-- e --></span>Mauspads</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="M&auml;use" href="/Eingabegeräte/Mäuse" target="_self"><span class="arrow"><!-- e --></span>M&auml;use</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Presenter" href="/Presenter" target="_self"><span class="arrow"><!-- e --></span>Presenter</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Tastaturen" href="/Eingabegeräte/Tastaturen" target="_self"><span class="arrow"><!-- e --></span>Tastaturen</a>
+      
+      </li>
+      
+       </ul></li>
+    
+     </ul></li>
+  
+    
+    <li class="key_8759"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel isSubTree  hasSubs treeOpened">
+      <a title="PC-Audio" href="/Hardware/PC-Audio" target="_self">PC-Audio</a>
+      
+   </li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Headsets" href="/PC-Audio/Headsets" target="_self"><span class="arrow"><!-- e --></span>Headsets</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Kopfh&ouml;rer" href="/PC-Audio/Kopfhörer" target="_self"><span class="arrow"><!-- e --></span>Kopfh&ouml;rer</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Mikrofone" href="/PC-Audio/Mikrofone" target="_self"><span class="arrow"><!-- e --></span>Mikrofone</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="PC-Lautsprecher" href="/PC-Lautsprecher" target="_self"><span class="arrow"><!-- e --></span>PC-Lautsprecher</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="USB Soundkarten" href="/USB-Soundkarten" target="_self"><span class="arrow"><!-- e --></span>USB Soundkarten</a>
+      
+      </li>
+      
+       </ul></li>
+    
+     </ul></li>
+  
+    
+    <li class="key_8733"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel isSubTree  hasSubs treeOpened">
+      <a title="Netzwerktechnik" href="/Hardware/Netzwerktechnik" target="_self">Netzwerktechnik</a>
+      
+   </li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Access Points" href="/Access-Points" target="_self"><span class="arrow"><!-- e --></span>Access Points</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Antennen" href="/Netzwerktechnik/Antennen" target="_self"><span class="arrow"><!-- e --></span>Antennen</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Bluetooth Adapter" href="/Bluetooth-Adapter" target="_self"><span class="arrow"><!-- e --></span>Bluetooth Adapter</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Erweiterungsmodul" href="/Netzwerktechnik/Erweiterungsmodul" target="_self"><span class="arrow"><!-- e --></span>Erweiterungsmodul</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Firewalls" href="/Firewalls" target="_self"><span class="arrow"><!-- e --></span>Firewalls</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Internet Sticks" href="/Internet-Sticks" target="_self"><span class="arrow"><!-- e --></span>Internet Sticks</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="KVM-Switches" href="/KVM-Switches" target="_self"><span class="arrow"><!-- e --></span>KVM-Switches</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Lizenzen" href="/Netzwerktechnik/Lizenzen" target="_self"><span class="arrow"><!-- e --></span>Lizenzen</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Powerline" href="/Powerline" target="_self"><span class="arrow"><!-- e --></span>Powerline</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree hasSubs">
+      <a title="Router" href="/Netzwerktechnik/Router" target="_self"><span class="arrow"><!-- e --></span>Router</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="Switches" href="/Switches" target="_self"><span class="arrow"><!-- e --></span>Switches</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="USB-Hubs" href="/USB-Hubs" target="_self"><span class="arrow"><!-- e --></span>USB-Hubs</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="WLAN Repeater" href="/WLAN-Repeater" target="_self"><span class="arrow"><!-- e --></span>WLAN Repeater</a>
+      
+      </li>
+      
+       </ul></li>
+    
+      
+      <li> <ul class="isOpenSubTree">
+      <li class="subLevel2  isOpenSubTree">
+      <a title="WLAN Sticks" href="/WLAN-Sticks" target="_self"><span class="arrow"><!-- e --></span>WLAN Sticks</a>
+      
+      </li>
+      
+       </ul></li>
+    
+     </ul></li>
+  
+    
+    <li class="key_8682"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel  hasSubs">
+      <a title="Kabel &amp; Adapter" href="/Hardware/Kabel-Adapter" target="_self"><span class="arrow"><!-- e --></span>Kabel &amp; Adapter</a>
+      
+   </li>
+    
+     </ul></li>
+  
+    
+    <li class="key_22114"> <ul class="isFirstLevelSubTreeNode">
+    <li class="subLevel  hasSubs">
+      <a title="B&uuml;robedarf &amp; Schreibwaren" href="/Hardware/Bürobedarf-Schreibwaren" target="_self"><span class="arrow"><!-- e --></span>B&uuml;robedarf &amp; Schreibwaren</a>
+      
+   </li>
+    
+     </ul></li>
+  
+  </ul>
+
+  
+
+</nav>
+
+
+    <div id="contentWrapper">
+         
+<div id="stage">
+  <div class="highlightsSlick spa-content spa-content-stage">
+    <div class="spa spa-position-stage spa-limit-0"></div>
+  </div>
+</div>
+
+
+
+
+<div class="flexTest">
+        <div id="pageContent">
+
+
+
+<nav class="breadCrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+	<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/Hardware" itemprop="item" title="Zu Hardware gehen"><span itemprop="name">Hardware</span><meta itemprop="position" content="1" /></a></span>
+	 &gt; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/Hardware/PC-Komponenten" itemprop="item" title="Zu PC Komponenten gehen"><span itemprop="name">PC Komponenten</span><meta itemprop="position" content="2" /></a></span>
+	 &gt; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/Grafikkarten" itemprop="item" title="Zu Grafikkarten gehen"><span itemprop="name">Grafikkarten</span><meta itemprop="position" content="3" /></a></span>
+	 &gt; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/Grafikkarten/NVIDIA-Grafikkarten" itemprop="item" title="Zu NVIDIA Grafikkarten gehen"><span itemprop="name">NVIDIA Grafikkarten</span><meta itemprop="position" content="4" /></a></span>
+	 &gt; <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="/Grafikkarten/RTX-3080" itemprop="item" title="Zu RTX 3080 gehen"><span itemprop="name">RTX 3080</span><meta itemprop="position" content="5" /></a></span>
+</nav>
+<div id="listingResult"></div>
+<h1 class="seoListingHeadline">RTX 3080</h1>
+
+
+<div id="sponsored-product-ads-listing"></div>
+
+
+
+
+<div class="quickFilter">
+  <div id="quickFilterOverlay"></div>
+  <form id="quickFilterForm" method="get" action="/Grafikkarten/RTX-3080/html/listings/1599465397714?" autocomplete="off">
+    <input type="hidden" name="size" value="500" /><input type="hidden" name="lk" value="29308" /><input type="hidden" name="showFilter" value="false" /><input type="hidden" name="hideFilter" value="false" /><input type="hidden" name="disableFilter" value="false" />
+    <div id="filterSelectionContainer">
+  <div class="filterSelectionGray">
+    
+    <div id="filterPriceSelection">
+      <strong class="filterName">Preis:</strong>
+      <input id="priceFrom" type="hidden" name="filter_-1" value="89900" />
+      <input id="priceTo" type="hidden" name="filter_-1" value="126900" />
+      €&nbsp;<input type="text" id="priceFromEuro" maxlength="6"  pattern="[0-9]*" data-onload-value="89900" />&nbsp;
+      bis €&nbsp;<input type="text" id="priceToEuro" maxlength="6" pattern="[0-9]*" data-onload-value="126900" />
+    </div>
+    
+    <div id="commonFilterContainer">
+      
+      
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  
+</div>
+    
+      <div class="filters"> 
+  <div class="filterContainer">
+    
+    <div id="filter_id7171" class="filter changeable">
+      <label class="filterName" title="Marke">Marke</label>
+    </div>
+    
+    <div id="filter_id2133" class="filter changeable">
+      <label class="filterName" title="belegte Slots &#x28;Bauh&ouml;he&#x29;">belegte Slots &#x28;Bauh&ouml;he&#x29;</label>
+    </div>
+    
+    <div id="filter_id2245" class="filter changeable">
+      <label class="filterName" title="vorhandene HDMI-Anschl&uuml;sse">vorhandene HDMI-Anschl&uuml;sse</label>
+    </div>
+    
+    <div id="filter_id2147467256" class="filter changeable">
+      <label class="filterName" title="Treiber">Treiber</label>
+    </div>
+    
+    <div id="filter_id25138" class="filter changeable">
+      <label class="filterName" title="Beleuchtungsfarbe">Beleuchtungsfarbe</label>
+    </div>
+    
+    <div id="filter_id2147481515" class="filter changeable">
+      <label class="filterName" title="Grafikkarte Allgemein">Grafikkarte Allgemein</label>
+    </div>
+    
+    <div id="filter_id158" class="filter changeable">
+      <label class="filterName" title="Artikelabmessungen&#x3a; Tiefe&#x2f;L&auml;nge">Artikelabmessungen&#x3a; Tiefe&#x2f;L&auml;nge</label>
+    </div>
+    
+    <div id="filter_id2147458902" class="filter changeable">
+      <label class="filterName" title="Beleuchtung">Beleuchtung</label>
+    </div>
+    
+    <div id="filter_id2158" class="filter changeable">
+      <label class="filterName" title="GPU Boost-Takt">GPU Boost-Takt</label>
+    </div>
+    
+    
+    <div class="filter moreFilters">
+      <label class="filterName" title="Mehr Filter">Mehr Filter</label>
+    </div>
+    
+    
+  </div>
+  <div class="filterEntries">
+    
+    
+    <span class="filterEntryName">Marke</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 ASUS">
+          <input type="checkbox" name="filter_7171" value="1220" />
+          <span class="filterName">ASUS&nbsp;(6)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 MSI">
+          <input type="checkbox" name="filter_7171" value="666" />
+          <span class="filterName">MSI&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 GIGABYTE">
+          <input type="checkbox" name="filter_7171" value="20" />
+          <span class="filterName">GIGABYTE&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 EVGA">
+          <input type="checkbox" name="filter_7171" value="113" />
+          <span class="filterName">EVGA&nbsp;(7)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 AORUS">
+          <input type="checkbox" name="filter_7171" value="1659" />
+          <span class="filterName">AORUS&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 ZOTAC">
+          <input type="checkbox" name="filter_7171" value="313" />
+          <span class="filterName">ZOTAC&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Palit">
+          <input type="checkbox" name="filter_7171" value="892" />
+          <span class="filterName">Palit&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Gainward">
+          <input type="checkbox" name="filter_7171" value="1000" />
+          <span class="filterName">Gainward&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 INNO3D">
+          <input type="checkbox" name="filter_7171" value="1929" />
+          <span class="filterName">INNO3D&nbsp;(4)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">belegte Slots &#x28;Bauh&ouml;he&#x29;</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 2">
+          <input type="checkbox" name="filter_2133" value="2.0" />
+          <span class="filterName">2&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 2,5">
+          <input type="checkbox" name="filter_2133" value="2.5" />
+          <span class="filterName">2,5&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 3">
+          <input type="checkbox" name="filter_2133" value="3.0" />
+          <span class="filterName">3&nbsp;(25)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 3,5">
+          <input type="checkbox" name="filter_2133" value="3.5" />
+          <span class="filterName">3,5&nbsp;(2)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">vorhandene HDMI-Anschl&uuml;sse</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 2">
+          <input type="checkbox" name="filter_2245" value="2.0" />
+          <span class="filterName">2&nbsp;(10)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1">
+          <input type="checkbox" name="filter_2245" value="1.0" />
+          <span class="filterName">1&nbsp;(21)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 3">
+          <input type="checkbox" name="filter_2245" value="3.0" />
+          <span class="filterName">3&nbsp;(4)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">Treiber</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 Windows 10">
+          <input type="checkbox" name="filter_2147467256" value="16394" />
+          <span class="filterName">Windows 10&nbsp;(35)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Linux">
+          <input type="checkbox" name="filter_2147467256" value="16391" />
+          <span class="filterName">Linux&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Windows 8">
+          <input type="checkbox" name="filter_2147467256" value="16396" />
+          <span class="filterName">Windows 8&nbsp;(19)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">Beleuchtungsfarbe</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 RGB">
+          <input type="checkbox" name="filter_25138" value="5" />
+          <span class="filterName">RGB&nbsp;(23)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">Grafikkarte Allgemein</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 Gaming">
+          <input type="checkbox" name="filter_2147481515" value="21211" />
+          <span class="filterName">Gaming&nbsp;(35)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Wasserk&uuml;hlungs Anschluss (G 1/4&quot;)">
+          <input type="checkbox" name="filter_2147481515" value="23416" />
+          <span class="filterName">Wasserk&uuml;hlungs Anschluss &#x28;G 1&#x2f;4&quot;&#x29;&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 High-End-Karte">
+          <input type="checkbox" name="filter_2147481515" value="2132" />
+          <span class="filterName">High-End-Karte&nbsp;(35)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 AiO Wasserk&uuml;hlung">
+          <input type="checkbox" name="filter_2147481515" value="23417" />
+          <span class="filterName">AiO Wasserk&uuml;hlung&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 K&uuml;hlung mit L&uuml;fter">
+          <input type="checkbox" name="filter_2147481515" value="23415" />
+          <span class="filterName">K&uuml;hlung mit L&uuml;fter&nbsp;(30)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 VR Ready">
+          <input type="checkbox" name="filter_2147481515" value="19895" />
+          <span class="filterName">VR Ready&nbsp;(35)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">Artikelabmessungen&#x3a; Tiefe&#x2f;L&auml;nge</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 28,537 cm">
+          <input type="checkbox" name="filter_158" value="285.37" />
+          <span class="filterName">28,537 cm&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 29,99 cm">
+          <input type="checkbox" name="filter_158" value="299.89999" />
+          <span class="filterName">29,99 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 29,4 cm">
+          <input type="checkbox" name="filter_158" value="294.0" />
+          <span class="filterName">29,4 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 30 cm">
+          <input type="checkbox" name="filter_158" value="300.0" />
+          <span class="filterName">30 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 30,5 cm">
+          <input type="checkbox" name="filter_158" value="305.0" />
+          <span class="filterName">30,5 cm&nbsp;(1)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 22,6 cm">
+          <input type="checkbox" name="filter_158" value="226.0" />
+          <span class="filterName">22,6 cm&nbsp;(1)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 30,22 cm">
+          <input type="checkbox" name="filter_158" value="302.20001" />
+          <span class="filterName">30,22 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 30,4 cm">
+          <input type="checkbox" name="filter_158" value="304.0" />
+          <span class="filterName">30,4 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 25,2 cm">
+          <input type="checkbox" name="filter_158" value="252.0" />
+          <span class="filterName">25,2 cm&nbsp;(1)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 28,89 cm">
+          <input type="checkbox" name="filter_158" value="288.89999" />
+          <span class="filterName">28,89 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 31,85 cm">
+          <input type="checkbox" name="filter_158" value="318.5" />
+          <span class="filterName">31,85 cm&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 31,9 cm">
+          <input type="checkbox" name="filter_158" value="319.0" />
+          <span class="filterName">31,9 cm&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 31,78 cm">
+          <input type="checkbox" name="filter_158" value="317.79999" />
+          <span class="filterName">31,78 cm&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 33,6 cm">
+          <input type="checkbox" name="filter_158" value="336.0" />
+          <span class="filterName">33,6 cm&nbsp;(1)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 32 cm">
+          <input type="checkbox" name="filter_158" value="320.0" />
+          <span class="filterName">32 cm&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 32,3 cm">
+          <input type="checkbox" name="filter_158" value="323.0" />
+          <span class="filterName">32,3 cm&nbsp;(1)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">Beleuchtung</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 Beleuchtet">
+          <input type="checkbox" name="filter_2147458902" value="25137" />
+          <span class="filterName">Beleuchtet&nbsp;(15)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 AURA Sync">
+          <input type="checkbox" name="filter_2147458902" value="24745" />
+          <span class="filterName">AURA Sync&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 Mystic Light">
+          <input type="checkbox" name="filter_2147458902" value="24747" />
+          <span class="filterName">Mystic Light&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 RGB Fusion">
+          <input type="checkbox" name="filter_2147458902" value="24746" />
+          <span class="filterName">RGB Fusion&nbsp;(11)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    <span class="filterEntryName">GPU Boost-Takt</span>
+    <ul class="filterEntry">
+      <li class="filterValue">
+        <label title="RTX 3080 1.905 MHz">
+          <input type="checkbox" name="filter_2158" value="1905.0" />
+          <span class="filterName">1.905 MHz&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.800 MHz">
+          <input type="checkbox" name="filter_2158" value="1800.0" />
+          <span class="filterName">1.800 MHz&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.860 MHz">
+          <input type="checkbox" name="filter_2158" value="1860.0" />
+          <span class="filterName">1.860 MHz&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.815 MHz">
+          <input type="checkbox" name="filter_2158" value="1815.0" />
+          <span class="filterName">1.815 MHz&nbsp;(1)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.845 MHz">
+          <input type="checkbox" name="filter_2158" value="1845.0" />
+          <span class="filterName">1.845 MHz&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.755 MHz">
+          <input type="checkbox" name="filter_2158" value="1755.0" />
+          <span class="filterName">1.755 MHz&nbsp;(4)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.725 MHz">
+          <input type="checkbox" name="filter_2158" value="1725.0" />
+          <span class="filterName">1.725 MHz&nbsp;(2)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.770 MHz">
+          <input type="checkbox" name="filter_2158" value="1770.0" />
+          <span class="filterName">1.770 MHz&nbsp;(3)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.710 MHz">
+          <input type="checkbox" name="filter_2158" value="1710.0" />
+          <span class="filterName">1.710 MHz&nbsp;(9)</span>
+        </label>
+      </li>
+      
+      <li class="filterValue">
+        <label title="RTX 3080 1.740 MHz">
+          <input type="checkbox" name="filter_2158" value="1740.0" />
+          <span class="filterName">1.740 MHz&nbsp;(3)</span>
+        </label>
+      </li>
+      
+    </ul>
+    
+    
+    
+    
+    <ul class="filterEntry moreFilters">
+      <li class="filterValue" data-filterid="filter_id2147467256">
+        <label>
+          <span class="filterName" title="Treiber">Treiber</span>
+        </label>
+      </li>
+      <li class="filterValue" data-filterid="filter_id25138">
+        <label>
+          <span class="filterName" title="Beleuchtungsfarbe">Beleuchtungsfarbe</span>
+        </label>
+      </li>
+      <li class="filterValue" data-filterid="filter_id2147481515">
+        <label>
+          <span class="filterName" title="Grafikkarte Allgemein">Grafikkarte Allgemein</span>
+        </label>
+      </li>
+      <li class="filterValue" data-filterid="filter_id158">
+        <label>
+          <span class="filterName" title="Artikelabmessungen&#x3a; Tiefe&#x2f;L&auml;nge">Artikelabmessungen&#x3a; Tiefe&#x2f;L&auml;nge</span>
+        </label>
+      </li>
+      <li class="filterValue" data-filterid="filter_id2147458902">
+        <label>
+          <span class="filterName" title="Beleuchtung">Beleuchtung</span>
+        </label>
+      </li>
+      <li class="filterValue" data-filterid="filter_id2158">
+        <label>
+          <span class="filterName" title="GPU Boost-Takt">GPU Boost-Takt</span>
+        </label>
+      </li>
+      <li class="filterValue">
+        <a class="showAllFilters" href="/html/product/listing/allFilters.html?navId=1599465397714&amp;size=500&amp;lk=29308&amp;hideFilter=false"><strong>Alle Filter</strong></a>
+      </li>
+    </ul>
+    
+    <div class="clear"></div>
+  </div>
+</div>
+    
+  </form>
+  
+</div>
+
+
+
+
+
+
+<div class="interaction">
+  
+  
+<div class="options">
+  <div class="sorting">Sortierung:
+    <a class="active" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=RELEVANCE&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Beliebt sortieren">Beliebt</a>  | 
+    <a href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=NAME&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Name sortieren">Name</a>  |
+    <a href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=AVAILABILITY&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Verfügbarkeit sortieren">Verfügbarkeit</a>  |
+    <a href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=RATING&amp;order=DESC&amp;hideFilter=false" title="RTX 3080 nach Bewertung sortieren">Bewertung</a>  | 
+    <a href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=PRICE&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Preis sortieren">Preis</a>    
+  </div>
+  
+  <div class="view">
+    <span class="left">Ansicht:</span>
+    <a class="list active" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;hideFilter=false&amp;lv=list" title="Liste"><!-- e --></a>
+    <a class="gallery" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;hideFilter=false&amp;lv=gallery" title="Galerie"><!-- e --></a>
+    <a class="mosaic" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;hideFilter=false&amp;lv=mosaic" title="Mosaik"><!-- e --></a>
+    <div class="clear"><!-- e --></div>
+  </div>
+  
+  <div class="clear"><!-- e --></div>
+</div>
+
+  <div class="articleSizePerSite">Artikel pro Seite: 
+  
+    
+    
+    <span class="notSelectable ">40</span>
+  
+    <span>|</span>
+    
+    <span class="notSelectable ">80</span>
+  
+    <span>|</span>
+    
+    <span class="notSelectable ">120</span>
+  
+    <span>|</span>
+    
+      
+      <span class="active">alle</span>
+    
+    
+  
+</div>
+  
+</div>
+<div class="listingContainer">
+  <div class="clipline"><!-- e --></div>
+
+  
+  <div class="clear"><!-- x --></div>
+  
+    <div class="listingSubgroup"></div>
+    <div class="listingHead">
+      
+      <a class="product" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=NAME&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Produkt sortieren">Produkt</a>
+      
+
+      
+      <a class="info" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=COLUMN1&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Grafikchip sortieren">Grafikchip&nbsp;</a>
+      
+
+      
+      <a class="info" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=COLUMN2&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach Speicher sortieren">Speicher&nbsp;</a>
+      
+
+      
+      <a class="info" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=COLUMN3&amp;order=ASC&amp;hideFilter=false" title="RTX 3080 nach belegte Slots sortieren">belegte Slots&nbsp;</a>
+      
+
+      
+      
+      <a class="rating" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=RATING&amp;order=DESC&amp;hideFilter=false" title="RTX 3080 nach Bewertung sortieren">Bewertung</a>
+      
+
+      
+      <a class="price" href="/Grafikkarten/RTX-3080/html/listings/1599465397714?lk=29308&amp;size=500&amp;sort=PRICE&amp;order=ASC&amp;hideFilter=false"  title="RTX 3080 nach Preis sortieren">Preis</a>
+      
+      <div class="clear"><!-- e --></div>
+    </div>
+    
+    
+    
+    <div class="spa-content spa-content-listing-sponsored"><div class="spa spa-position-listing_sponsored_1 spa-limit-1"></div></div>
+    
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_666 manf_1408">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="MSI GeForce RTX 3080 SUPRIM X 10G, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" class="productLink" href="/MSI/GeForce-RTX-3080-SUPRIM-X-10G-Grafikkarte/html/product/1689863?">
+        <span class="product">
+          <span class="pic" title="MSI GeForce RTX 3080 SUPRIM X 10G, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" style="background-image:url(/p/80x80/3/6/MSI_GeForce_RTX_3080_SUPRIM_X_10G__Grafikkarte@@1689863.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>MSI</span> <span>GeForce RTX 3080 SUPRIM X 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI 2.1</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>11</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.049,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/MSI/GeForce-RTX-3080-SUPRIM-X-10G-Grafikkarte/html/product/1689863?" title="MSI GeForce RTX 3080 SUPRIM X 10G, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="MSI GeForce RTX 3080 SUPRIM X 10G, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1689863" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    <div class="spa-content spa-content-listing"><div class="spa spa-position-listing_3 spa-limit-0"></div></div>
+    
+    
+    
+    
+    
+    
+    <div class="spa-content spa-content-listing-sponsored"><div class="spa spa-position-listing_sponsored_3 spa-limit-1"></div></div>
+    
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_20 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 Gaming OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/GIGABYTE/GeForce-RTX-3080-Gaming-OC-10G-Grafikkarte/html/product/1672753?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 Gaming OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/j/GIGABYTE_GeForce_RTX_3080_Gaming_OC_10G__Grafikkarte@@jhxy0s01.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 Gaming OC 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>26</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.049,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/GIGABYTE/GeForce-RTX-3080-Gaming-OC-10G-Grafikkarte/html/product/1672753?" title="GIGABYTE GeForce RTX 3080 Gaming OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 Gaming OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672753" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_666 manf_1408">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="MSI GeForce RTX 3080 Gaming X TRIO 10G, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/MSI/GeForce-RTX-3080-Gaming-X-TRIO-10G-Grafikkarte/html/product/1672343?">
+        <span class="product">
+          <span class="pic" title="MSI GeForce RTX 3080 Gaming X TRIO 10G, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/MSI_GeForce_RTX_3080_Gaming_X_TRIO_10G__Grafikkarte@@jhxn0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>MSI</span> <span>GeForce RTX 3080 Gaming X TRIO 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/4Stars.png);"><!-- e --></span>
+        <span>23</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 999,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/MSI/GeForce-RTX-3080-Gaming-X-TRIO-10G-Grafikkarte/html/product/1672343?" title="MSI GeForce RTX 3080 Gaming X TRIO 10G, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="MSI GeForce RTX 3080 Gaming X TRIO 10G, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672343" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_113 manf_81">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="EVGA GeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/EVGA/GeForce-RTX-3080-FTW3-ULTRA-GAMING-Grafikkarte/html/product/1673524?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/EVGA_GeForce_RTX_3080_FTW3_ULTRA_GAMING__Grafikkarte@@jhxz0s04_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>20</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.079,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-FTW3-ULTRA-GAMING-Grafikkarte/html/product/1673524?" title="EVGA GeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 FTW3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673524" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_20 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 Vision OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/GIGABYTE/GeForce-RTX-3080-Vision-OC-10G-Grafikkarte/html/product/1681134?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 Vision OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/4/3/GIGABYTE_GeForce_RTX_3080_Vision_OC_10G__Grafikkarte@@1681134.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 Vision OC 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>6</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.049,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/GIGABYTE/GeForce-RTX-3080-Vision-OC-10G-Grafikkarte/html/product/1681134?" title="GIGABYTE GeForce RTX 3080 Vision OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 Vision OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1681134" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1659 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 AORUS MASTER 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" class="productLink" href="/AORUS/GeForce-RTX-3080-AORUS-MASTER-10G-Grafikkarte/html/product/1680168?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 AORUS MASTER 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" style="background-image:url(/p/80x80/8/6/GIGABYTE_GeForce_RTX_3080_AORUS_MASTER_10G__Grafikkarte@@1680168.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 AORUS MASTER 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3,5 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/4Stars.png);"><!-- e --></span>
+        <span>13</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.119,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/AORUS/GeForce-RTX-3080-AORUS-MASTER-10G-Grafikkarte/html/product/1680168?" title="GIGABYTE GeForce RTX 3080 AORUS MASTER 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 AORUS MASTER 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1680168" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    <div class="spa-content spa-content-listing"><div class="spa spa-position-listing_10 spa-limit-0"></div></div>
+    
+    
+    
+    
+    
+    
+    <div class="spa-content spa-content-listing-sponsored"><div class="spa spa-position-listing_sponsored_10 spa-limit-1"></div></div>
+    
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_313 manf_212">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ZOTAC GeForce RTX 3080 AMP Holo, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/ZOTAC/GeForce-RTX-3080-AMP-Holo-Grafikkarte/html/product/1677985?">
+        <span class="product">
+          <span class="pic" title="ZOTAC GeForce RTX 3080 AMP Holo, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/5/8/ZOTAC_GeForce_RTX_3080_AMP_Holo__Grafikkarte@@1677985.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ZOTAC</span> <span>GeForce RTX 3080 AMP Holo, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/4Stars.png);"><!-- e --></span>
+        <span>8</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.019,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ZOTAC/GeForce-RTX-3080-AMP-Holo-Grafikkarte/html/product/1677985?" title="ZOTAC GeForce RTX 3080 AMP Holo, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ZOTAC GeForce RTX 3080 AMP Holo, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1677985" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1659 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" class="productLink" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-10G-Grafikkarte/html/product/1687039?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 AORUS XTREME 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" style="background-image:url(/p/80x80/9/3/GIGABYTE_GeForce_RTX_3080_AORUS_XTREME_10G__Grafikkarte@@1687039.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 AORUS XTREME 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3,5 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>5</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.199,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-10G-Grafikkarte/html/product/1687039?" title="GIGABYTE GeForce RTX 3080 AORUS XTREME 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1687039" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion36 brand_1220 manf_206">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ASUS GeForce RTX 3080 TUF GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/ASUS/GeForce-RTX-3080-TUF-GAMING-Grafikkarte/html/product/1672251?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 TUF GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/j/ASUS_GeForce_RTX_3080_TUF_GAMING__Grafikkarte@@jhxv0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 TUF GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>19</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 976,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-TUF-GAMING-Grafikkarte/html/product/1672251?" title="ASUS GeForce RTX 3080 TUF GAMING, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 TUF GAMING, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672251" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_113 manf_81">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="EVGA GeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/EVGA/GeForce-RTX-3080-XC3-ULTRA-GAMING-Grafikkarte/html/product/1674164?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/4/6/EVGA_GeForce_RTX_3080_XC3_ULTRA_GAMING__Grafikkarte@@1674164_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2,5 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/4Stars.png);"><!-- e --></span>
+        <span>13</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 999,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-XC3-ULTRA-GAMING-Grafikkarte/html/product/1674164?" title="EVGA GeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 XC3 ULTRA GAMING, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1674164" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion36 brand_1220 manf_206">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ASUS GeForce RTX 3080 TUF OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/ASUS/GeForce-RTX-3080-TUF-OC-GAMING-Grafikkarte/html/product/1672634?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 TUF OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/j/ASUS_GeForce_RTX_3080_TUF_OC_GAMING__Grafikkarte@@jhxv0s01.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 TUF OC GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>30</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.079,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-TUF-OC-GAMING-Grafikkarte/html/product/1672634?" title="ASUS GeForce RTX 3080 TUF OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 TUF OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672634" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion36 brand_1220 manf_206">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ASUS GeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-OC-GAMING-Grafikkarte/html/product/1672867?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/7/6/ASUS_GeForce_RTX_3080_ROG_STRIX_OC_GAMING__Grafikkarte@@1672867.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>14</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.154,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-OC-GAMING-Grafikkarte/html/product/1672867?" title="ASUS GeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 ROG STRIX OC GAMING, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672867" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_20 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 Eagle OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/GIGABYTE/GeForce-RTX-3080-Eagle-OC-10G-Grafikkarte/html/product/1672756?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 Eagle OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/j/GIGABYTE_GeForce_RTX_3080_Eagle_OC_10G__Grafikkarte@@jhxy0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 Eagle OC 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>7</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.019,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/GIGABYTE/GeForce-RTX-3080-Eagle-OC-10G-Grafikkarte/html/product/1672756?" title="GIGABYTE GeForce RTX 3080 Eagle OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 Eagle OC 10G, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672756" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_892 manf_603">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="Palit GeForce RTX 3080 GamingPro OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/Palit/GeForce-RTX-3080-GamingPro-OC-10G-Grafikkarte/html/product/1673431?">
+        <span class="product">
+          <span class="pic" title="Palit GeForce RTX 3080 GamingPro OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/Palit_GeForce_RTX_3080_GamingPro_OC_10G__Grafikkarte@@jhxh0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>Palit</span> <span>GeForce RTX 3080 GamingPro OC 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>5</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.049,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/Palit/GeForce-RTX-3080-GamingPro-OC-10G-Grafikkarte/html/product/1673431?" title="Palit GeForce RTX 3080 GamingPro OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="Palit GeForce RTX 3080 GamingPro OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673431" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    <div class="spa-content spa-content-listing"><div class="spa spa-position-listing_20 spa-limit-0"></div></div>
+    
+    
+    
+    
+    
+    
+    <div class="spa-content spa-content-listing-sponsored"><div class="spa spa-position-listing_sponsored_20 spa-limit-1"></div></div>
+    
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_666 manf_1408">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="MSI GeForce RTX 3080 Ventus 3X 10G OC, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/MSI/GeForce-RTX-3080-Ventus-3X-10G-OC-Grafikkarte/html/product/1672345?">
+        <span class="product">
+          <span class="pic" title="MSI GeForce RTX 3080 Ventus 3X 10G OC, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/MSI_GeForce_RTX_3080_Ventus_3X_10G_OC__Grafikkarte@@jhxn0s01.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>MSI</span> <span>GeForce RTX 3080 Ventus 3X 10G OC, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>11</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 939,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/MSI/GeForce-RTX-3080-Ventus-3X-10G-OC-Grafikkarte/html/product/1672345?" title="MSI GeForce RTX 3080 Ventus 3X 10G OC, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="MSI GeForce RTX 3080 Ventus 3X 10G OC, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672345" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1000 manf_679">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="Gainward GeForce RTX 3080 Phantom GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/Gainward/GeForce-RTX-3080-Phantom-GS-10G-Grafikkarte/html/product/1688597?">
+        <span class="product">
+          <span class="pic" title="Gainward GeForce RTX 3080 Phantom GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/7/9/Gainward_GeForce_RTX_3080_Phantom_GS_10G__Grafikkarte@@1688597.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>Gainward</span> <span>GeForce RTX 3080 Phantom GS 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>4</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.069,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/Gainward/GeForce-RTX-3080-Phantom-GS-10G-Grafikkarte/html/product/1688597?" title="Gainward GeForce RTX 3080 Phantom GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="Gainward GeForce RTX 3080 Phantom GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1688597" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_892 manf_603">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="Palit GeForce RTX 3080 Gamerock OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/Palit/GeForce-RTX-3080-Gamerock-OC-10G-Grafikkarte/html/product/1688594?">
+        <span class="product">
+          <span class="pic" title="Palit GeForce RTX 3080 Gamerock OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/4/9/Palit_GeForce_RTX_3080_Gamerock_OC_10G__Grafikkarte@@1688594.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>Palit</span> <span>GeForce RTX 3080 Gamerock OC 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>2</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.099,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/Palit/GeForce-RTX-3080-Gamerock-OC-10G-Grafikkarte/html/product/1688594?" title="Palit GeForce RTX 3080 Gamerock OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="Palit GeForce RTX 3080 Gamerock OC 10G, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1688594" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_313 manf_212">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ZOTAC GeForce RTX 3080 Trinity, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/ZOTAC/GeForce-RTX-3080-Trinity-Grafikkarte/html/product/1672612?">
+        <span class="product">
+          <span class="pic" title="ZOTAC GeForce RTX 3080 Trinity, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/ZOTAC_GeForce_RTX_3080_Trinity__Grafikkarte@@jhxt0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ZOTAC</span> <span>GeForce RTX 3080 Trinity, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>1</span>
+        <br />
+        
+          Bewertung
+        
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 899,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ZOTAC/GeForce-RTX-3080-Trinity-Grafikkarte/html/product/1672612?" title="ZOTAC GeForce RTX 3080 Trinity, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ZOTAC GeForce RTX 3080 Trinity, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672612" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion36 brand_1220 manf_206">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-Grafikkarte/html/product/1672868?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 ROG STRIX GAMING, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/j/ASUS_GeForce_RTX_3080_ROG_STRIX_GAMING__Grafikkarte@@jhxv0s02.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 ROG STRIX GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>1</span>
+        <br />
+        
+          Bewertung
+        
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.119,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-Grafikkarte/html/product/1672868?" title="ASUS GeForce RTX 3080 ROG STRIX GAMING, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1672868" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_113 manf_81">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="EVGA GeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/EVGA/GeForce-RTX-3080-XC3-BLACK-GAMING-Grafikkarte/html/product/1673512?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/2/1/EVGA_GeForce_RTX_3080_XC3_BLACK_GAMING__Grafikkarte@@1673512_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2,5 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 924,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-XC3-BLACK-GAMING-Grafikkarte/html/product/1673512?" title="EVGA GeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 XC3 BLACK GAMING, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673512" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1000 manf_679">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="Gainward GeForce RTX 3080 Phoenix GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/Gainward/GeForce-RTX-3080-Phoenix-GS-10G-Grafikkarte/html/product/1673442?">
+        <span class="product">
+          <span class="pic" title="Gainward GeForce RTX 3080 Phoenix GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/Gainward_GeForce_RTX_3080_Phoenix_GS_10G__Grafikkarte@@jhxw0s00.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>Gainward</span> <span>GeForce RTX 3080 Phoenix GS 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>3</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.039,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/Gainward/GeForce-RTX-3080-Phoenix-GS-10G-Grafikkarte/html/product/1673442?" title="Gainward GeForce RTX 3080 Phoenix GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="Gainward GeForce RTX 3080 Phoenix GS 10G, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673442" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_20 manf_985">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="GIGABYTE GeForce RTX 3080 Eagle 10G, Grafikkarte 3x DisplayPort, 2x HDMI" class="productLink" href="/GIGABYTE/GeForce-RTX-3080-Eagle-10G-Grafikkarte/html/product/1692001?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 Eagle 10G, Grafikkarte 3x DisplayPort, 2x HDMI" style="background-image:url(/p/80x80/1/0/GIGABYTE_GeForce_RTX_3080_Eagle_10G__Grafikkarte@@1692001_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 Eagle 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 949,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/GIGABYTE/GeForce-RTX-3080-Eagle-10G-Grafikkarte/html/product/1692001?" title="GIGABYTE GeForce RTX 3080 Eagle 10G, Grafikkarte 3x DisplayPort, 2x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 Eagle 10G, Grafikkarte 3x DisplayPort, 2x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1692001" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    <div class="spa-content spa-content-listing"><div class="spa spa-position-listing_30 spa-limit-0"></div></div>
+    
+    
+    
+    
+    
+    
+    <div class="spa-content spa-content-listing-sponsored"><div class="spa spa-position-listing_sponsored_30 spa-limit-1"></div></div>
+    
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_313 manf_212">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="ZOTAC GeForce RTX 3080 Trinity OC, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/ZOTAC/GeForce-RTX-3080-Trinity-OC-Grafikkarte/html/product/1677989?">
+        <span class="product">
+          <span class="pic" title="ZOTAC GeForce RTX 3080 Trinity OC, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/9/8/ZOTAC_GeForce_RTX_3080_Trinity_OC__Grafikkarte@@1677989.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ZOTAC</span> <span>GeForce RTX 3080 Trinity OC, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/4Stars.png);"><!-- e --></span>
+        <span>8</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 949,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ZOTAC/GeForce-RTX-3080-Trinity-OC-Grafikkarte/html/product/1677989?" title="ZOTAC GeForce RTX 3080 Trinity OC, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ZOTAC GeForce RTX 3080 Trinity OC, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1677989" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1929 manf_2507">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="INNO3D  GeForce RTX 3080 iChill X3, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/INNO3D/GeForce-RTX-3080-iChill-X3-Grafikkarte/html/product/1673136?">
+        <span class="product">
+          <span class="pic" title="INNO3D  GeForce RTX 3080 iChill X3, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/INNO3D__GeForce_RTX_3080_iChill_X3__Grafikkarte@@jhxi0s01_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>INNO3D </span> <span>GeForce RTX 3080 iChill X3, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>3</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 949,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/INNO3D/GeForce-RTX-3080-iChill-X3-Grafikkarte/html/product/1673136?" title="INNO3D  GeForce RTX 3080 iChill X3, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="INNO3D  GeForce RTX 3080 iChill X3, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673136" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" class="productLink" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-WATERFORCE-10G-Grafikkarte/html/product/1694049?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" style="background-image:url(/p/80x80/9/4/GIGABYTE_GeForce_RTX_3080_AORUS_XTREME_WATERFORCE_10G__Grafikkarte@@1694049.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          Keine Angaben&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>2</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.269,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-WATERFORCE-10G-Grafikkarte/html/product/1694049?" title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1694049" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_113 manf_81">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="EVGA GeForce RTX 3080 FTW3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/EVGA/GeForce-RTX-3080-FTW3-GAMING-Grafikkarte/html/product/1673517?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 FTW3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/7/1/EVGA_GeForce_RTX_3080_FTW3_GAMING__Grafikkarte@@1673517_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 FTW3 GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.029,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-FTW3-GAMING-Grafikkarte/html/product/1673517?" title="EVGA GeForce RTX 3080 FTW3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 FTW3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673517" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" class="productLink" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-WATERFORCE-WB-10G-Grafikkarte/html/product/1694051?">
+        <span class="product">
+          <span class="pic" title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0" style="background-image:url(/p/80x80/1/5/GIGABYTE_GeForce_RTX_3080_AORUS_XTREME_WATERFORCE_WB_10G__Grafikkarte@@1694051.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>GIGABYTE</span> <span>GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          Keine Angaben&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.269,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/AORUS/GeForce-RTX-3080-AORUS-XTREME-WATERFORCE-WB-10G-Grafikkarte/html/product/1694051?" title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="GIGABYTE GeForce RTX 3080 AORUS XTREME WATERFORCE WB 10G, Grafikkarte 3x DisplayPort, 2x HDMI 2.1, 1x HDMI 2.0 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1694051" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1" class="productLink" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-OC-WHITE-Grafikkarte/html/product/1699868?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1" style="background-image:url(/p/80x80/8/6/ASUS_GeForce_RTX_3080_ROG_STRIX_GAMING_OC_WHITE__Grafikkarte@@1699868.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.239,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-OC-WHITE-Grafikkarte/html/product/1699868?" title="ASUS GeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING OC WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1699868" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" class="productLink" href="/EVGA/GeForce-RTX-3080-FTW3-ULTRA-HYBRID-GAMING-Grafikkarte/html/product/1703232?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" style="background-image:url(/p/80x80/2/3/EVGA_GeForce_RTX_3080_FTW3_ULTRA_HYBRID_GAMING__Grafikkarte@@1703232.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI 2.1</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.119,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-FTW3-ULTRA-HYBRID-GAMING-Grafikkarte/html/product/1703232?" title="EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 FTW3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1703232" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1929 manf_2507">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="INNO3D  GeForce RTX 3080 iChill X4, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/INNO3D/GeForce-RTX-3080-iChill-X4-Grafikkarte/html/product/1673134?">
+        <span class="product">
+          <span class="pic" title="INNO3D  GeForce RTX 3080 iChill X4, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/INNO3D__GeForce_RTX_3080_iChill_X4__Grafikkarte@@jhxi0s00_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>INNO3D </span> <span>GeForce RTX 3080 iChill X4, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 969,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/INNO3D/GeForce-RTX-3080-iChill-X4-Grafikkarte/html/product/1673134?" title="INNO3D  GeForce RTX 3080 iChill X4, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="INNO3D  GeForce RTX 3080 iChill X4, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673134" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="EVGA GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" class="productLink" href="/EVGA/GeForce-RTX-3080-XC3-ULTRA-HYBRID-GAMING-Grafikkarte/html/product/1703229?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1" style="background-image:url(/p/80x80/9/2/EVGA_GeForce_RTX_3080_XC3_ULTRA_HYBRID_GAMING__Grafikkarte@@1703229.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI 2.1</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.069,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-XC3-ULTRA-HYBRID-GAMING-Grafikkarte/html/product/1703229?" title="EVGA GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 XC3 ULTRA HYBRID GAMING, Grafikkarte 3x DisplayPort, 1x HDMI 2.1 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1703229" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_113 manf_81">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="EVGA GeForce RTX 3080 XC3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/EVGA/GeForce-RTX-3080-XC3-GAMING-Grafikkarte/html/product/1673520?">
+        <span class="product">
+          <span class="pic" title="EVGA GeForce RTX 3080 XC3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/0/2/EVGA_GeForce_RTX_3080_XC3_GAMING__Grafikkarte@@1673520_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>EVGA</span> <span>GeForce RTX 3080 XC3 GAMING, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2,5 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 974,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/EVGA/GeForce-RTX-3080-XC3-GAMING-Grafikkarte/html/product/1673520?" title="EVGA GeForce RTX 3080 XC3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="EVGA GeForce RTX 3080 XC3 GAMING, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673520" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+  <span class="eyeCatcherSmall promotion4 brand_1929 manf_2507">
+    
+      
+    
+    
+    
+    
+  </span>
+
+      
+      <a title="INNO3D  GeForce RTX 3080 Twin X2 OC, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/INNO3D/GeForce-RTX-3080-Twin-X2-OC-Grafikkarte/html/product/1673137?">
+        <span class="product">
+          <span class="pic" title="INNO3D  GeForce RTX 3080 Twin X2 OC, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/j/INNO3D__GeForce_RTX_3080_Twin_X2_OC__Grafikkarte@@jhxi0s02_30.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>INNO3D </span> <span>GeForce RTX 3080 Twin X2 OC, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 899,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/INNO3D/GeForce-RTX-3080-Twin-X2-OC-Grafikkarte/html/product/1673137?" title="INNO3D  GeForce RTX 3080 Twin X2 OC, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="INNO3D  GeForce RTX 3080 Twin X2 OC, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1673137" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="INNO3D  GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte 3x DisplayPort, 1x HDMI" class="productLink" href="/INNO3D/GeForce-RTX-3080-ICHILL-FROSTBITE-Grafikkarte/html/product/1693867?">
+        <span class="product">
+          <span class="pic" title="INNO3D  GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte 3x DisplayPort, 1x HDMI" style="background-image:url(/p/80x80/7/6/INNO3D__GeForce_RTX_3080_ICHILL_FROSTBITE__Grafikkarte@@1693867.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>INNO3D </span> <span>GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 1x HDMI</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          2 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/5Stars.png);"><!-- e --></span>
+        <span>2</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.019,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/INNO3D/GeForce-RTX-3080-ICHILL-FROSTBITE-Grafikkarte/html/product/1693867?" title="INNO3D  GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte 3x DisplayPort, 1x HDMI ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="INNO3D  GeForce RTX 3080 ICHILL FROSTBITE, Grafikkarte 3x DisplayPort, 1x HDMI Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1693867" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+    
+    
+    <div class="listRow">
+      
+      
+      <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1" class="productLink" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-WHITE-Grafikkarte/html/product/1699867?">
+        <span class="product">
+          <span class="pic" title="ASUS GeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1" style="background-image:url(/p/80x80/7/6/ASUS_GeForce_RTX_3080_ROG_STRIX_GAMING_WHITE__Grafikkarte@@1699867.jpg)"></span>
+          <span class="description">
+            <span class="name"><span>ASUS</span> <span>GeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte</span></span>
+            <span class="additional">3x DisplayPort, 2x HDMI 2.1</span>
+          </span>
+        </span>
+        <span class="info">
+          NVIDIA GeForce RTX 3080&nbsp;
+        </span>
+        <span class="info">
+          10 GB (GDDR6X, 320 Bit)&nbsp;
+        </span>
+        <span class="info">
+          3 Slots&nbsp;
+        </span>
+        <span class="clear"><!-- e --></span>
+      </a>
+      <div class="rating">
+      
+        <span class="pic" style="background-image:url(/pix/product/ratings/0Stars.png);"><!-- e --></span>
+        <span>0</span>
+        <br />
+        
+        
+          Bewertungen
+        
+      
+      </div>
+      <div class="waresSum">
+        <p>
+          <span class="price right right10">&euro; 1.209,-<sup>*</sup></span>
+        </p>
+        <div class="clear"><!-- e --></div>
+        
+        
+        
+                
+        
+        <a class="button accept-22 listingButton" href="/ASUS/GeForce-RTX-3080-ROG-STRIX-GAMING-WHITE-Grafikkarte/html/product/1699867?" title="ASUS GeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1 ansehen">
+  <span class="button-bg">&#9656;</span>
+</a>
+        
+        <a title="ASUS GeForce RTX 3080 ROG STRIX GAMING WHITE, Grafikkarte 3x DisplayPort, 2x HDMI 2.1 Zum Produktvergleich hinzuf&uuml;gen" href="/html/product/compare/page.html?cmd=add&amp;articleId=1699867" class="openProductCompare button option-22">
+          
+          <span class="button-bg compare-grey"><!-- e --></span>
+          
+        </a>
+        
+        
+        
+      </div>
+      <span class="stockStatusContainer complete">
+        <strong class="stockStatus available_unsure">Liefertermin unbekannt</strong>
+
+      </span>
+      <span class="clear"><!-- e --></span>
+    </div>
+    
+    
+  
+
+  
+  
+  
+</div>
+<script type="text/javascript">
+  
+</script>
+<div class="clear"><!-- e --></div>
+
+
+
+
+<div class="clear">
+  <!-- e -->
+</div>
+<div id="footer" class="jsHiddenFooter" style="position:relative">
+  <div class="tab">
+    <div class="item">
+      <span>Info &amp; Hilfe</span>
+      <ul>
+        
+        <li class="section">
+          <a href="/HILFE" title="Übersicht Info & Hilfe">&Uuml;bersicht Info &amp; Hilfe</a>
+        </li>
+         
+        
+        <li class="section">
+          <a href="/HILFE/Bestellmöglichkeiten" title="Bestellmöglichkeiten">Bestellmöglichkeiten</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/Zahlungsarten" title="Zahlungsarten">Zahlungsarten</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/Versand-Lieferung" title="Versand & Lieferung">Versand & Lieferung</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/Rücksendung-Rückgabe" title="Rücksendung / Rückgabe">Rücksendung / Rückgabe</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/ALTERNATE/Altgeräte-Batterieentsorgung" title="Altgeräte-/ Batterieentsorgung">Altgeräte-/ Batterieentsorgung</a>
+        </li>
+        
+        
+        <li class="section">
+          <a href="/HILFE/FAQ" title="FAQ">FAQ</a>
+        </li>
+         
+        
+        
+        <li class="section">
+          <a href="/Wissenswertes" title="Wissenswertes auf ALTERNATE">Wissenswertes auf ALTERNATE</a>
+        </li>
+         
+        
+        <li class="section">
+          <a href="/HILFE/ALTERNATE/Markenglossar" title="Markenglossar">Markenglossar</a>
+        </li>
+         
+        
+      </ul>
+    </div>
+    <div class="item">
+      <span>Mein Konto</span>
+      <ul>
+        
+        <li class="section">
+          <a href="/MEIN-KONTO/Mein-Konto" title="Zu meinem Konto">Zu meinem Konto</a>
+        </li>
+         
+        
+        <li class="section">
+          <a href="/MEIN-KONTO/Meine-Bestellungen" title="Meine Bestellungen">Meine Bestellungen</a>
+        </li>
+         
+        
+        <li>
+          <a href="/MEIN-KONTO/Meine-Rücksendungen" title="Meine Rücksendungen">Meine Rücksendungen</a>
+        </li>
+         
+        
+        <li class="section">
+          <a href="/MEIN-KONTO/Meine-Warenkörbe" title="Gespeicherte Warenkörbe">Gespeicherte Warenkörbe</a>
+        </li>
+         
+        
+        <li>
+          <a href="/MEIN-KONTO/Mein-Wunschzettel" title="Mein Wunschzettel">Mein Wunschzettel</a>
+        </li>
+         
+        
+        <li>
+          <a href="/MEIN-KONTO/Mein-Produktagent" title="Mein Produktagent">Mein Produktagent</a>
+        </li>
+         
+        <li class="section">
+          <a href="/html/myAccount/register/page.html" title="registrieren">Noch kein Kunde?
+          <br />
+          Dann hier anmelden.</a>
+        </li>
+        <li class="section">
+          <a href="/html/myAccount/login/page.html" title="Einloggen">Einloggen</a>
+        </li>
+        <li class="section">
+          <a id="footerLogout" href="/html/myAccount/logout/logout.html?cmd=logout" title="Logout"><var class="startPage">/html/index.html</var>Ausloggen</a>
+        </li>
+        <li class="section">
+          <a href="https://www.alternate.de/ruecksendung/" title="Online-Retourencenter">Online-Retourencenter </a>
+        </li>
+        <li>
+          <a href="/bestellung/" title="Bestellübersicht">Bestellübersicht</a>
+        </li>
+        
+        <li class="section">
+          <a href="/Fragen-und-Antworten" title="Fragen und Antworten">Fragen und Antworten</a>
+        </li>
+         
+      </ul>
+    </div>
+    <div class="item">
+      <span>Service</span>
+      <ul>
+        
+        <li>
+          <a href="/HILFE/Rücksendung-Rückgabe" title="Rücksendung / Rückgabe">Rücksendung / Rückgabe</a>
+        </li>
+        <li class="section">
+          <a href="/html/voucher/page.html" title="Gutschein kaufen">Gutschein kaufen</a>
+        </li>
+        <li>
+          <a href="/html/newsletter/page.html" title="Newsletter">Newsletter</a>
+        </li>
+        
+        <li>
+          <a href="/PC/123-Konfigurator" title="1-2-3 Konfigurator">1-2-3 Konfigurator</a>
+        </li>
+         
+        <li>
+          <a href="/html/configurator/builder/pc/page.html" title="PC-Konfigurator">PC-Konfigurator</a>
+        </li>
+        
+        <li>
+          <a href="/Apple/Apple-Servicecenter" title="Apple Service Center">Apple Service Center</a>
+        </li>
+         
+        
+        <li>
+          <a href="/Peripherie/Tinten-und-Tonerfinder" title="Tinten- und Tonerfinder">Tinten- und Tonerfinder</a>
+        </li>
+         
+        <li>
+          <a href="/html/themeworld.html?docId=12203" title="Garantieverlängerung">Garantieverlängerung</a>
+        </li>
+
+        <li class="section">
+          <a href="/html/b2b/index.html" title="Firmenkunden">Firmenkunden</a>
+        </li>
+
+        <li>
+          <a href="/B2G" title="&Ouml;ffentliche Einrichtungen">&Ouml;ffentliche Einrichtungen</a>
+        </li>
+ 
+        <li>
+          <a href="https://www.wave-distribution.de/" title="Großhandel">Großhandel</a>
+        </li>
+      </ul>
+    </div>
+    <div class="item last">
+      <span>ALTERNATE</span>
+      <ul>
+        <li class="section">
+          <a href="/html/themeworld.html?docId=15527&showTree=118" title="Hinter den Kulissen">Hinter den Kulissen</a>
+        </li>
+        
+        <li class="section">
+          <a href="/HILFE/ALTERNATE/Kontakt" title="Kontakt">Kontakt</a>
+        </li>
+         
+        
+        <li class="jsHiddenFooterVisibleElement">
+          <a href="/HILFE/ALTERNATE/Impressum" title="Impressum">Impressum</a>
+        </li>
+        
+        <li class="jsHiddenFooterVisibleElement">
+          <a href="/HILFE/ALTERNATE/AGB" title="AGB">AGB</a>
+        </li>
+         
+        
+        <li class="jsHiddenFooterVisibleElement">
+          <a href="/HILFE/ALTERNATE/Widerrufsrecht" title="Widerrufsrecht">Widerrufsrecht</a>
+        </li>
+        
+        
+        <li class="jsHiddenFooterVisibleElement">
+          <a href="/HILFE/ALTERNATE/Datenschutz" title="Datenschutz">Datenschutz</a>
+        </li>
+         
+        
+        
+        
+        <li>
+          <a href="/HILFE/ALTERNATE/Nutzungsbedingungen" title="Nutzungsbedingungen">Nutzungsbedingungen</a>
+        </li>
+         
+        
+        <li class="section">
+          <a href="/HILFE/ALTERNATE/Über-uns" title="Über uns">Über uns</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/ALTERNATE/Presse" title="Presse">Presse</a>
+        </li>
+         
+        
+        <li>
+          <a href="/Jobs/Festanstellung" title="Jobs & Karriere">Jobs &amp; Karriere</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/ALTERNATE/Stores-vor-Ort" title="Stores vor Ort">Stores vor Ort/</a>
+        </li>
+         
+        
+        <li>
+          <a href="/HILFE/ALTERNATE/Stores-vor-Ort#themeHours" title="Öffnungszeiten">Öffnungszeiten</a>
+        </li>
+         
+        <li class="section">
+          <a href="/html/themeworld.html?docId=15742&showTree=118" title="Soziale Verantwortung">Soziale Verantwortung</a>
+        </li>
+        
+        <li>
+          <a href="/EMAS" title="Nachhaltigkeit">Nachhaltigkeit</a>
+        </li>
+         
+        <li class="section">
+          <a href="/html/themeworld.html?docId=4682" title="Partnerprogramme">Partnerprogramme</a>
+        </li>
+      </ul>
+    </div>
+    <div class="clear">
+      <!-- e -->
+    </div>
+  </div>
+
+  
+  <div id="footerToMobileShop">
+    <a href="https://m.alternate.de?forceNoDesktop=true" title="Zur mobilen Ansicht wechseln">Zur mobilen Ansicht wechseln</a>
+  </div>
+  <script type="text/javascript">
+  onLoadExecute(function() {
+    var mobileURL = $('head > link[rel="alternate"][media]').attr('href');
+    if (mobileURL) {
+      $('#footerToMobileShop > a').attr('href', mobileURL + (mobileURL.indexOf('?') >= 0 ? '&' : '?') + 'forceNoDesktop=true');
+    }
+  });
+  </script>
+  
+
+  <div id="footerLangList">
+    Sie finden ALTERNATE-Onlineshops in:
+    <div>
+      <a href="https://www.alternate.be" style="background-image:url(/pix/icons/flag/be_15x15.png);" title="www.alternate.be">alternate.be</a>
+      <a href="https://www.alternate.at" style="background-image:url(/pix/icons/flag/at_15x15.png);" title="www.alternate.at">alternate.at</a>
+      <a href="https://www.alternate.dk" style="background-image:url(/pix/icons/flag/dk_15x15.png);" title="www.alternate.dk">alternate.dk</a>
+      <a href="https://www.alternate.nl" style="background-image:url(/pix/icons/flag/nl_15x15.png);" title="www.alternate.nl">alternate.nl</a>
+      <a href="https://www.alternate.es" style="background-image:url(/pix/icons/flag/es_15x15.png);" title="www.alternate.es">alternate.es</a>
+      <a href="https://www.alternate.pl" style="background-image:url(/pix/icons/flag/pl_15x15.png);" title="www.alternate.pl">alternate.pl</a>
+      <br />
+      <a href="https://www.alternate.fr" style="background-image:url(/pix/icons/flag/fr_15x15.png);" title="www.alternate.fr">alternate.fr</a>
+      <a href="https://www.alternate.it" style="background-image:url(/pix/icons/flag/it_15x15.png);" title="www.alternate.it">alternate.it</a>
+      <a href="https://www.alternate.co.uk" style="background-image:url(/pix/icons/flag/uk_15x15.png);" title="www.alternate.co.uk">alternate.co.uk</a>
+      <a href="https://www.alternate.ch" style="background-image:url(/pix/icons/flag/ch_15x15.png);" title="www.alternate.ch">alternate.ch</a>
+      <a href="https://www.alternate.lu" style="background-image:url(/pix/icons/flag/lu_15x15.png);" title="www.alternate.lu">alternate.lu</a>
+    </div>
+  </div>
+</div>    
+
+<div class="seoBottom" id="seoBottom">
+  <div class="content">
+    <h2 style="text-align: left;">RTX 3080 &ndash; Nvidias neue Ampere-Hochleistungsgrafikkarte</h2>
+<p style="text-align: justify;">Mit der neuen auf der Ampere-Architektur basierenden <strong>GeForce RTX 3080</strong> High-End-Grafikkarte &uuml;bertrifft Entwickler Nvidia nahezu alle Erwartungen und liefert mit dem neuen Flaggschiff eine &uuml;berragende Leistungssteigerung im Vergleich zum Vorg&auml;nger, der RTX 2080. Im umfangreichen Hardware-Sortiment des ALTERNATE Online-Shops finden Sie nat&uuml;rlich die brandaktuellen, hochmodernen und &uuml;beraus performanten <strong>Nvidia Geforce RTX 3080 Grafikkarten</strong> von renommierten Herstellern wie ASUS, MSI, EVGA, GIGABYTE oder ZOTAC zu attraktiven Preisen. Weitere Informationen zu den neuen <strong>RTX 3080</strong> Ampere-Grafikkarten lesen Sie im Folgenden.</p>
+<h2 style="text-align: left;">Preiswerte Spitzenleistung dank RTX 3080</h2>
+<p style="text-align: justify;">Der US-Amerikanische Entwickler Nvidia pr&auml;sentiert mit seiner brandneuen und extrem leistungsf&auml;higen <strong>GeForce RTX 3080</strong> Grafikkarte einen mehr als w&uuml;rdigen Nachfolger der RTX 2080, welcher im Hinblick auf die Performance die Messlatte nun deutlich h&ouml;her setzt, aber gleichzeitig g&uuml;nstiger ist als der auf der Turing-Architektur basierende Vorg&auml;nger. Dadurch bekommen sehr anspruchsvolle und leistungsorientierte Anwender, welche bez&uuml;glich der Grafikleistung keinerlei Kompromisse eingehen wollen, mit der neuen <strong>Nvidia GeForce RTX 3080</strong> eine High-End-Grafikkarte zum g&uuml;nstigen Mittelklasse-Preis geboten!</p>
+<h2 style="text-align: left;">GeForce RTX 3080 &ndash; ein gewaltiger Sprung nach vorne</h2>
+<p style="text-align: justify;">Die <strong>GeForce RTX 3080</strong> High-End-Grafikkarte aus dem Hause Nvidia bietet Spielerinnen und Spielern dank aktueller RTX-Architektur der zweiten Generation, genannt Ampere, eine herausragende Spitzenleistung mit verbesserten, doppelten Datendurchsatz bietenden RT- sowie Tensor-Recheneinheiten, neuen Streaming-Prozessoren und einem ultraschnellen G6X-Speicher. Im Vergleich zum Vorg&auml;nger, der RTX 2080, ist die brandneue <strong>RTX 3080</strong> in etwa doppelt so schnell und je nach Spiel kann der Performance-Boost sogar bei 70 oder gar 80 Prozent liegen, so dass die RTX 3080 in Hinsicht auf die Gesamtleistung einen gewaltigen Sprung nach vorne macht.</p>
+<h2 style="text-align: left;">RTX 3080 Performance f&uuml;r Gamer und Streamer</h2>
+<p style="text-align: justify;">Dank der <strong>GeForce RTX 3080</strong> werden leidenschaftlichen Gamern ultimative Spielerlebnisse mit beeindruckender Performance und atemberaubenden Grafiken geboten, so dass virtuelle Welten realistischer denn je erscheinen und Besitzer der <strong>Nvidia GeForce RTX 3080</strong> komplett in Spiele aller Art eintauchen k&ouml;nnen. Jedoch profitieren nicht nur Gamer, sondern auch noch Streamer von der au&szlig;erordentlichen Power der Nvidia Geforce RTX 3080, deren Grafikprozessor ambitionierten Streamern genau die Leistung und Bildqualit&auml;t liefert, welche ben&ouml;tigt wird, um all den Zuschauerinnen und Zuschauern einen fl&uuml;ssigen, ruckelfreien Livestream mit beeindruckenden Grafiken zu offerieren.</p>
+<h2 style="text-align: left;">Technische Daten der Nvidia GeForce RTX 3080</h2>
+<p style="text-align: justify;">Nvidias neue Ampere-Hochleistungsgrafikkarte besticht durch einen GPU-Takt von 1,71 GHz (Boost), 10 GB GDDR6X Speicher, 8704 CUDA-Kerne, eine 320-Bit Bandbreite sowie auch eine PCI-E Express 4.0 Unterst&uuml;tzung. Insgesamt sollen mit der <strong>Nvidia GeForce RTX 3080</strong> 30 Shader-TFLOPS und 58 RayTracing-TFLOPS erreicht werden. Beim sogenannten Raytracing handelt es sich um eine Grafiktechnologie, die das physikalische Verhalten von Licht simuliert, damit in Spielen realistische Spiegelungen, Schatten oder Beleuchtungen dargestellt werden. F&uuml;r die Stromversorgung der High-End-Grafikkarte (Leistungsaufnahme 320 Watt) werden zwei 8-Pin Stecker ben&ouml;tigt.</p>
+<h2 style="text-align: left;">RTX 3080 verbindet Hochleistung mit innovativem Design</h2>
+<p>Das neue Flaggschiff <strong>Geforce RTX 3080</strong> kommt mit einem v&ouml;llig neuen, aber auch &auml;u&szlig;erst innovativen Referenz-K&uuml;hler-Design daher. Die h&ouml;chstm&ouml;gliche thermische Leistung wird dank des neuen Geh&auml;usedesigns mit zweifacher axialer Durchstr&ouml;mung geliefert. Nicht nur der nat&uuml;rliche Luftstrom wird auf Grund der innovativen Bauweise verst&auml;rkt, sondern es erfolgt dadurch auch die Minimierung von st&ouml;renden L&uuml;fterger&auml;uschen, so dass die Besitzer einer RTX 3080 von einem k&uuml;hleren und leiseren Spielerlebnis profitieren.</p>
+<h2 style="text-align: left;">Nvidia RTX 3080 mit fortschrittlicher DLSS-Technologie</h2>
+<p style="text-align: justify;">Deep Learning Super Sampling, kurz DLSS, ist eine neue und revolution&auml;re Grafiktechnologie von Nvidia, welche auch bei der <strong>High-End-Grafikkarte GeForce RTX 3080</strong> Verwendung findet und in Form von KI-beschleunigtem Rendering auf dedizierten Tensor Cores f&uuml;r maximale Framerates sowie maximale Qualit&auml;t sorgt. Zusammenfassend handelt es sich bei DLSS um eine Art KI gesteuerten Upscaler bzw. eine Bildverbesserung, welche mittels k&uuml;nstlicher Intelligenz vorgenommen wird und die Leistung eines neuronalen Netzes f&uuml;r Deep Learning nutzt. Damit werden zum einen die Framerates gesteigert und zum anderen noch h&uuml;bschere, sch&auml;rfere Bilder in Games mit Grafikkarten wie der<strong> Nvidia GeForce RTX 3080</strong> generiert. &nbsp;</p>
+<h2 style="text-align: left;">Nvidia GeForce RTX 3080 Grafikkarten bei ALTERNATE kaufen</h2>
+<p style="text-align: justify;">Die neuesten und leistungsst&auml;rksten Hardware-Komponenten finden Sie wie gewohnt bei ALTERNATE und somit selbstverst&auml;ndlich auch die aktuellsten Grafikkarten wie die Nvidia GeForce RTX 3080. High-End-Performance mit modernen und innovativen Funktionen in Kombination mit einem sehr guten Preis-Leistungs-Verh&auml;ltnis &ndash; das ist die <strong>GeForce RTX 3080 von Nvidia</strong>. Bei ALTERNATE bestellen und von attraktiven Angeboten, einem schnellen und zuverl&auml;ssigen Versand sowie einem ausgezeichneten Service profitieren.</p>
+  </div>
+</div>
+
+<div class="additionalSmallTable additionalSmall top10">
+    <div class="row">
+    <div class="cell">
+      *&nbsp;
+    </div>
+    <div class="cell">
+      Alle Preise inkl. gesetzlicher Mehrwertsteuer oder Versicherungssteuer, ggf. zzgl. <a href="/html/help/contentBig.html?docId=7114&amp;showTree=118&amp;showTree=2450" title="Versandkosten">Versandkosten</a> und 
+      <a href="/html/help/contentBig.html?docId=7104&amp;showTree=118&amp;showTree=2460" title="Nachnahmegeb&uuml;hr">Nachnahmegeb&uuml;hr</a>.
+    </div>
+  </div>
+
+<div class="row deliveryTimeHint" style="display:none">
+  <div class="cell"><sup>2</sup>&nbsp;</div>
+  <div class="cell">
+    Im Standardversand bei allen Zahlungsarten mit Ausnahme Finanzierung /Vorkasse: Für Paketlieferungen innerhalb Deutschlands bzw. bei Speditionszustellung innerhalb Deutschlands, ohne Deutsche Inseln. Informationen zur Berechnung des Liefertermins finden Sie <a href="/HILFE/Versand-Lieferung/Verfügbarkeiten-Lieferfristen" title="Informationen zur Berechnung des Liefertermins">hier</a>. Bitte beachten Sie, dass sich der Liefertermin aufgrund der von Ihnen gewählten Versandart ändern kann. 
+  </div>
+</div>
+
+<div class="row">
+  <div class="cell"><sup>4</sup>&nbsp;</div>
+  <div class="cell">
+   Unser alter Preis
+   </div>
+</div>
+
+</div>
+
+
+
+        </div>
+
+</div>
+
+
+    </div>
+
+        <div class="clear"></div>
+      </div>
+      
+
+<div id="specialAreaLeftSide" class="spa-content spa-content-left">
+  <div class="spa spa-position-left spa-limit-1"></div>
+</div>
+
+
+<div id="specialArea" class="fixed">
+  <div id="topPage"><style type="text/css">
+  div.seoListingBanner > p,
+  div.seoListingBanner > .interest { display:none }
+</style>
+<script type="text/javascript">
+onLoadExecute(function() {
+$("<div class='seoListingContent'></div>").insertBefore("#footer");
+
+$(".seoListingBanner").each(function() {
+  var p = $("h1 + p");
+  var interest = $(".interest");
+  $(".seoListingContent").append($("h1").clone());
+  p.appendTo(".seoListingContent");
+  interest.appendTo(".seoListingContent");
+  $(".seoListingContent").addClass("seoListingBanner");
+  $('div.seoListingBanner > p').show();
+  $('div.seoListingBanner > .interest').css('display','table');
+});
+});
+</script>
+
+<!-- Starfish -->
+<p>&nbsp;</p>
+<script src="/js/track.js?version=1.4" type="text/javascript" defer></script> 
+<script type="text/javascript">
+  onLoadExecute(function() {
+    document.body.style.background = "#A3A3A3 url('/pix/themeworld/takeOvers/MAR-75985/MAR-75985_Takeover_alt.jpg') no-repeat fixed center top";
+  });
+</script>
+<a href="/listing.xhtml?articleId=1654663,1654664,1654665,1654666&showTree=8&baseId=43601" class="takeover track_this_link"  data-key="1dec81830d923f1829bfff3bbf7fcb63"></a>
+</div>
+  <div class="spa-content spa-content-right"><div class="spa spa-position-right spa-limit-1"></div></div>
+  
+  <div id="bottomPage"></div>
+</div>
+
+    </div>
+    <div id="shadowBottom"></div>
+    <div id="fixedBottom">
+  <div id="footerBottom">
+    <div id="footerBottomOpener"><div>Zuletzt angesehen (5)</div></div>
+    <div id="cookieLaw"></div>
+    <div class="clear"><!-- e --></div>
+    <div id="footerBottomContent">
+      <div id="myRecorderFooter">
+        <ul >
+          <li>
+            <a href="/Diverse/Nvidia-CoD-Black-Ops-COLD-WAR-DC-(einlösbar-bis-10-02-2021)-Gutschein/html/product/1690363?" title=" Nvidia CoD Black Ops COLD WAR DC &#x28;einl&ouml;sbar bis 10.02.2021&#x29;-Gutschein" style="background-image:url(&#x2f;pix&#x2f;product&#x2f;missingProdpic&#x2f;noPic50x50.png)">
+              <span class="desc">
+                <strong></strong> Nvidia CoD Black Ops COLD WAR DC &#x28;einl&ouml;sbar bis 10.02.2021&#x29;-Gutschein
+              </span>
+              <span class="price">&euro; 19.999,-<sup>*</sup></span>
+            </a>
+          </li>
+          <li>
+            <a href="/MSI/MPG-X570-GAMING-PLUS-Mainboard/html/product/1555207?" title="MSI MPG X570 GAMING PLUS, Mainboard" style="background-image:url(&#x2f;p&#x2f;50x50&#x2f;g&#x2f;MSI_MPG_X570_GAMING_PLUS__Mainboard&#x40;&#x40;gremr505_30.jpg)">
+              <span class="desc">
+                <strong>MSI</strong> MPG X570 GAMING PLUS, Mainboard
+              </span>
+              <span class="price">&euro; 159,<sup>90*</sup></span>
+            </a>
+          </li>
+          <li>
+            <a href="/MSI/MPG-X570-GAMING-EDGE-WIFI-Mainboard/html/product/1555206?" title="MSI MPG X570 GAMING EDGE WIFI, Mainboard" style="background-image:url(&#x2f;p&#x2f;50x50&#x2f;g&#x2f;MSI_MPG_X570_GAMING_EDGE_WIFI__Mainboard&#x40;&#x40;gremr504_30.jpg)">
+              <span class="desc">
+                <strong>MSI</strong> MPG X570 GAMING EDGE WIFI, Mainboard
+              </span>
+              <span class="price">&euro; 177,<sup>90*</sup></span>
+            </a>
+          </li>
+          <li>
+            <a href="/AMD/Ryzen-7-5800X-Prozessor/html/product/1685585?" title="AMD Ryzen 7 5800X, Prozessor" style="background-image:url(&#x2f;p&#x2f;50x50&#x2f;5&#x2f;8&#x2f;AMD_Ryzen_7_5800X__Prozessor&#x40;&#x40;1685585.jpg)">
+              <span class="desc">
+                <strong>AMD</strong> Ryzen 7 5800X, Prozessor
+              </span>
+              <span class="price">&euro; 514,-<sup>*</sup></span>
+            </a>
+          </li>
+          <li>
+            <a href="/AMD/Ryzen-9-3900X-Prozessor/html/product/1553398?" title="AMD Ryzen 9 3900X, Prozessor" style="background-image:url(&#x2f;p&#x2f;50x50&#x2f;h&#x2f;AMD_Ryzen_9_3900X__Prozessor&#x40;&#x40;hr9a31.jpg)">
+              <span class="desc">
+                <strong>AMD</strong> Ryzen 9 3900X, Prozessor
+              </span>
+              <span class="price">&euro; 449,-<sup>*</sup></span>
+            </a>
+          </li>
+        </ul>
+        <div class="clear"><!-- e --></div>
+      </div>
+    </div>
+  </div>
+</div>
+    <!-- webAnalysis -->
+<var id="trackingUrl">https://click.alternate.de</var><script>trackingNamespace.starfishTrackingUrl = 'https\x3A\x2F\x2Fclick.alternate.de\x2Ftrack\x2F1'</script>
+
+<script type="text/plain" data-cookieconsent="MARKETING">
+var dataLayer = window.dataLayer || [];
+dataLayer.push({'eventName': 'VIEW_LISTING'});
+dataLayer.push({'title': 'RTX\x203080'});
+dataLayer.push({'location': 'https\x3A\x2F\x2Fwww.alternate.de\x2FGrafikkarten\x2FRTX\x2D3080\x3Fsize\x3D500\x26hideFilter\x3Dfalse\x26lk\x3D29308'});
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KWWVFQX');</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWWVFQX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+
+
+
+<script type="text/plain" data-cookieconsent="STATISTICS">
+var _paq = _paq || [];_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function () {var u = "https://t.alternate.de/";_paq.push(['setTrackerUrl', u + 'piwik.php']);_paq.push(['setSiteId', 1]);var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];g.type = 'text/javascript';g.async = true;g.defer = true;g.src = u + 'piwik.js';s.parentNode.insertBefore(g, s);})();</script>
+
+
+
+
+
+
+<noscript><var data-src="https://www.facebook.com/tr?id=739482569583270&ev=PageView&noscript=1" data-alt="Facebook-Pixel" data-title="Facebook-Pixel" data-height="1" data-width="1" data-style="display:none" data-cookieconsent-image="MARKETING" ></var>
+</noscript><script type="text/plain" data-cookieconsent="MARKETING">
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '739482569583270');fbq('track', 'PageView');</script>
+
+
+<!-- externTracking -->
+ <var data-src="https://newsletter.alternate.de/pc?mg=116695255458&bi=0&bmEncoding=UTF-8&subgroup=listing&gvalue4=29308&gvalue5=7&gvalue2=listing&gvalue3=1599465397714&gvalue10=-275424986"  data-cookieconsent-image="MARKETING"></var>
+  <script type="text/plain" data-cookieconsent="MARKETING">
+var gts = window.gts || [];
+gts.push(['id','606828']);
+gts.push(['badge_position','BOTTOM_RIGHT']);
+gts.push(['locale','de_DE']);
+gts.push(['google_base_offer_id','1']);
+gts.push(['google_base_subaccount_id','6129157']);
+gts.push(['google_base_country','DE']);
+gts.push(['google_base_language','de']);
+(function() {
+var gts = document.createElement('script');
+gts.type = 'text/javascript';
+gts.async = true;
+gts.src = 'https://www.googlecommerce.com/trustedstores/api/js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(gts, s);
+})();
+</script>   
+<!-- /externTracking -->
+  </body>
+</html>
